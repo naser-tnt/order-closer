@@ -1,0 +1,404 @@
+"Order ID",Place,Client,"Client Phone","Client Email",Date,"Sub Total",Discount,"Delivery Fee","Total Price","Delivery Method","Payment Method",Status,"Total After Platform Fee","Processor Fee","Platform Fee"
+187101,"Foron Rex 🇯🇴","Hamza Alakramawi",786296148,Hamza.alakramawi@sjcc.me,"27 Jan 2026 9:42 am","9.75 JOD","0.00 JOD","0.00 JOD","9.75 JOD","Pick Up",COD,"Order Accepted",9.75,0,0
+187100,"The Cakery","Hayat AlHijazin",798947910,hayathijazeen@gmail.com,"27 Jan 2026 9:23 am","38.00 JOD","0.00 JOD","4.00 JOD","42.00 JOD",Delivery,COD,"Order Accepted",42,0,0
+187099,"Foron Rex 🇯🇴",Dana,796302777,dmaraqa82@gmail.com,"27 Jan 2026 9:11 am","64.25 JOD","3.00 JOD","3.00 JOD","64.25 JOD",Delivery,COD,"Order Accepted",64.25,0,0
+187098,"The Dottir 🇯🇴","Shaden Mari",795058909,shadenm@hotmail.com,"27 Jan 2026 8:51 am","53.00 JOD","0.00 JOD","3.00 JOD","56.00 JOD",Delivery,COD,"Order Accepted",56,0,0
+187097,"Foron Rex 🇯🇴",Alex,777214165,Alejandro.secoexpo@gmail.com,"27 Jan 2026 8:44 am","20.55 JOD","3.00 JOD","3.00 JOD","20.55 JOD",Delivery,MEPS,"Order Accepted",20.55,0,0
+187096,"Bagel O's 🇯🇴","Mohammad ismaeel",795152521,Moh.ismael1358@gmail.com,"27 Jan 2026 8:25 am","8.75 JOD","1.75 JOD","0.00 JOD","7.24 JOD","Pick Up",COD,"Order is Ready",7.24,0,0
+187095,"Komat Qash Bakery 🇯🇴",Niveen,798818131,niveenkhalill85@hotmail.com,"27 Jan 2026 8:10 am","2.75 JOD","0.00 JOD","2.37 JOD","5.63 JOD",Delivery,APPLE_PAY,"Out for Delivery",5.29917,0.147855,0.33083
+187094,"Eggcited 🇯🇴","Mohammad almansour",798890037,mo_almansour@yahoo.com,"27 Jan 2026 8:09 am","7.10 JOD","1.42 JOD","0.00 JOD","5.68 JOD","Pick Up",APPLE_PAY,"Order is Ready",5.34712,0.14828,0.33288
+187093,"Yazan Shawerma 🇯🇴",asadabuswelem,790072007,asadabuswelem@gmail.com,"26 Jan 2026 11:55 pm","5.35 JOD","0.00 JOD","0.00 JOD","5.35 JOD","Pick Up",COD,Delivered,5.35,0,0
+187092,"Yazan Shawerma 🇯🇴",Fahmi,795276792,Mahdinazzal1234@gmail.com,"26 Jan 2026 11:47 pm","3.10 JOD","0.00 JOD","0.00 JOD","3.10 JOD","Pick Up",COD,Delivered,3.1,0,0
+187091,"Yazan Shawerma 🇯🇴","Adnan almanaseer",796312192,adnanalmanaseer132@icloud.com,"26 Jan 2026 11:43 pm","4.60 JOD","0.00 JOD","0.00 JOD","4.60 JOD","Pick Up",COD,Delivered,4.6,0,0
+187090,"The Big Slice 🇯🇴",Gabi,772325250,gabisnajjar@gmail.com,"26 Jan 2026 11:39 pm","13.99 JOD","2.80 JOD","4.00 JOD","14.95 JOD",Delivery,COD,Delivered,13.6045,0,1.3455
+187089,"Yazan Shawerma 🇯🇴","Rama alsheltawi",781851541,Ramamohd00@gmail.com,"26 Jan 2026 11:31 pm","5.70 JOD","0.00 JOD","1.00 JOD","6.85 JOD",Delivery,COD,"Out for Delivery",6.85,0,0
+187088,"Yazan Shawerma 🇯🇴",Leen,780359424,leenbasbous999@gmail.com,"26 Jan 2026 11:24 pm","1.65 JOD","0.00 JOD","1.00 JOD","2.69 JOD",Delivery,COD,"Out for Delivery",2.69,0,0
+187087,"Yazan Shawerma 🇯🇴",Hasan,795235412,h07711015656@gmail.com,"26 Jan 2026 11:22 pm","2.60 JOD","0.00 JOD","0.00 JOD","2.60 JOD","Pick Up",COD,Delivered,2.6,0,0
+187086,"Sofia Turkish Restaurant 🇯🇴","Amjad Othman",796091009,sales@caramelantique.com,"26 Jan 2026 11:20 pm","20.25 JOD","0.00 JOD","0.00 JOD","22.42 JOD",Delivery,APPLE_PAY,Delivered,21.40078,0.29057,1.01922
+187085,"Yazan Shawerma 🇯🇴",Dua,799600938,khalildua4@gmail.com,"26 Jan 2026 11:15 pm","6.60 JOD","0.00 JOD","1.50 JOD","8.28 JOD",Delivery,COD,"Out for Delivery",8.28,0,0
+187084,"Yazan Shawerma 🇯🇴",Tala,797127167,tala.aldajah02@icloud.com,"26 Jan 2026 11:13 pm","5.20 JOD","0.00 JOD","1.00 JOD","6.34 JOD",Delivery,COD,"Out for Delivery",6.34,0,0
+187081,"Yazan Shawerma 🇯🇴",Linda,790621106,Lillylolo2004@gmail.com,"26 Jan 2026 11:08 pm","3.65 JOD","0.00 JOD","1.50 JOD","5.25 JOD",Delivery,COD,Delivered,5.25,0,0
+187080,"The Whisk  🇯🇴","Alaa Barghouti",796934209,alaary@yahoo.com,"26 Jan 2026 10:56 pm","20.00 JOD","4.00 JOD","4.57 JOD","21.11 JOD",Delivery,COD,Delivered,21.11,0,0
+187079,"Sakura Sushi 🇯🇴",Rose,790753324,Rozzzz@live.com,"26 Jan 2026 10:54 pm","20.99 JOD","4.20 JOD","4.05 JOD","21.41 JOD",Delivery,APPLE_PAY,Delivered,20.34655,0.281985,1.06345
+187078,"Hash Burger 🇯🇴",Noor,795045309,nooribrahem645@gmail.com,"26 Jan 2026 10:46 pm","7.15 JOD","0.72 JOD","2.00 JOD","8.62 JOD",Delivery,COD,Delivered,8.62,0,0
+187077,"Phantom Kitchen 🇯🇴","Mohsen obeidat",790709923,Mohsenobeidat@icloud.com,"26 Jan 2026 10:44 pm","5.60 JOD","0.00 JOD","0.00 JOD","5.75 JOD","Pick Up",APPLE_PAY,Delivered,5.21875,0.148875,0.53125
+187076,"Crab and More 🇯🇴",Samar,799695777,bushra.alhadid14@gamil.com,"26 Jan 2026 10:39 pm","33.00 JOD","0.00 JOD","1.99 JOD","34.99 JOD",Delivery,COD,Delivered,34.99,0,0
+187075,"Nommers  🇯🇴",Firas,799215550,Firas.fa112@gmail.com,"26 Jan 2026 10:16 pm","12.00 JOD","2.40 JOD","4.41 JOD","14.33 JOD",Delivery,COD,Delivered,14.33,0,0
+187074,"Yazan Shawerma 🇯🇴",Raneem,788144859,raneemjamal12312@gmail.com,"26 Jan 2026 10:05 pm","3.00 JOD","0.00 JOD","0.00 JOD","3.00 JOD","Pick Up",COD,Delivered,3,0,0
+187073,"Wingman 🇯🇴",Ali,799532086,aliasz@gmail.com,"26 Jan 2026 9:57 pm","58.00 JOD","14.50 JOD","2.91 JOD","47.40 JOD",Delivery,COD,Delivered,47.4,0,0
+187072,"Crab and More 🇯🇴",0792221064,792221064,kMxT41695924999@bitesnbags.com,"26 Jan 2026 9:51 pm","8.00 JOD","0.00 JOD","2.84 JOD","10.84 JOD",Delivery,MEPS,Delivered,10.5774,0.19214,0.2626
+187071,"Ned's Pizza 🇯🇴","Laurent and Lara",0795523545,Lpgally@hotmail.com,"26 Jan 2026 9:48 pm","35.50 JOD","0.00 JOD","2.00 JOD","37.50 JOD",Delivery,COD,Delivered,37.5,0,0
+187070,"Sushi Crush 🇯🇴",Silivia,790173239,Siliviamakhamreh1997@gmail.com,"26 Jan 2026 9:47 pm","43.05 JOD","0.00 JOD","8.36 JOD","52.40 JOD",Delivery,COD,Delivered,52.4,0,0
+187069,"Toby's 🇯🇴",Maria,797826345,mariakhorzom@gmail.com,"26 Jan 2026 9:45 pm","10.40 JOD","1.04 JOD","4.08 JOD","13.72 JOD",Delivery,APPLE_PAY,Delivered,13.04376,0.21662,0.67624
+187068,"Sumac Co. 🇯🇴",Barakat,775478800,Barakat.jord@gmail.com,"26 Jan 2026 9:43 pm","35.00 JOD","7.00 JOD","1.50 JOD","30.45 JOD",Delivery,COD,Delivered,30.45,0,0
+187066,"Sumac Co. 🇯🇴",Fares,778444432,Fares.r.wahhab@gmail.com,"26 Jan 2026 9:28 pm","14.00 JOD","2.80 JOD","1.50 JOD","13.08 JOD",Delivery,APPLE_PAY,Delivered,12.43064,0.21118,0.64936
+187065,"Ned's Pizza 🇯🇴",Paolo,777121111,8z6LM1672140411@bitesnbags.com,"26 Jan 2026 9:22 pm","45.95 JOD","5.00 JOD","3.00 JOD","43.95 JOD",Delivery,APPLE_PAY,Delivered,42.92705,0.473575,1.02295
+187064,"Asia House 🇯🇴","Ghazal Najdawi",797628585,ghazal.najdawi2002@gmail.com,"26 Jan 2026 9:18 pm","14.32 JOD","0.00 JOD","1.45 JOD","18.06 JOD",Delivery,MEPS,Delivered,17.2376,0.25351,0.8224
+187063,"Ned's Pizza 🇯🇴",Majed,796024915,majedawaes@gmail.com,"26 Jan 2026 9:17 pm","41.00 JOD","0.00 JOD","0.00 JOD","41.00 JOD","Pick Up",COD,Delivered,41,0,0
+187062,"Pizza SQRD 🇯🇴",Zaid,796235697,dr.zaidnaim@gmail.com,"26 Jan 2026 9:12 pm","25.95 JOD","0.00 JOD","3.77 JOD","30.31 JOD",Delivery,COD,Delivered,30.31,0,0
+187061,"Four Winters 🇯🇴",Zaina,0795601699,Zsarhan@gmail.com,"26 Jan 2026 9:08 pm","10.50 JOD","2.63 JOD","2.83 JOD","13.24 JOD",Delivery,APPLE_PAY,Delivered,12.58392,0.21254,0.65608
+187060,"Nidal Al Kalha 🇯🇴",shaker,798216814,shaabujamous@gmail.com,"26 Jan 2026 9:02 pm","3.43 JOD","0.00 JOD","0.00 JOD","3.52 JOD","Pick Up",COD,Delivered,3.52,0,0
+187059,"Ned's Pizza 🇯🇴","اكرم عبيدات",798010002,pv6E31693076571@bitesnbags.com,"26 Jan 2026 8:55 pm","25.25 JOD","0.00 JOD","3.00 JOD","28.25 JOD",Delivery,COD,Delivered,28.25,0,0
+187058,"Ocho Kave Matcha 🇯🇴",Ahmad,799425801,Ahmad.dahoudi05@gmail.com,"26 Jan 2026 8:48 pm","4.19 JOD","0.00 JOD","0.00 JOD","4.19 JOD","Pick Up",APPLE_PAY,Delivered,3.90564,0.135615,0.28436
+187057,"Sumac Co. 🇯🇴","Saad Bakri",788222200,saad.albakri@mashrek.edu.jo,"26 Jan 2026 8:46 pm","23.00 JOD","4.60 JOD","0.00 JOD","19.02 JOD",Delivery,COD,Delivered,19.02,0,0
+187056,"Yazan Shawerma 🇯🇴",Aee,795150276,Gsvhw@hotmail.com,"26 Jan 2026 8:45 pm","2.00 JOD","0.00 JOD","1.50 JOD","3.55 JOD",Delivery,APPLE_PAY,Delivered,3.30445,0.130175,0.24555
+187055,"THE FIT BAR™",Zaid,796235697,dr.zaidnaim@gmail.com,"26 Jan 2026 8:44 pm","12.95 JOD","2.59 JOD","5.13 JOD","15.84 JOD",Delivery,MEPS,Delivered,15.0272,0.23464,0.8128
+187054,"Kababji 🇯🇴",Tareq,777387093,nadim.nedspizza@gmail.com,"26 Jan 2026 8:43 pm","68.03 JOD","0.00 JOD","2.43 JOD","75.90 JOD",Delivery,COD,Delivered,75.9,0,0
+187053,"Tandoori Oven 🇯🇴","Mahmoud Darwazeh",799930909,mudarwazeh@gmail.com,"26 Jan 2026 8:42 pm","17.20 JOD","0.00 JOD","3.11 JOD","22.15 JOD",Delivery,MEPS,Delivered,20.9425,0.288275,1.2075
+187050,"Sofia Turkish Restaurant 🇯🇴",Misbah,799995707,Mibeek@gmail.com,"26 Jan 2026 8:40 pm","11.15 JOD","0.00 JOD","0.00 JOD","12.34 JOD","Pick Up",COD,Delivered,12.34,0,0
+187049,"Ned's Pizza 🇯🇴",Hamza,799997129,8XAe01715872510@bitesnbags.com,"26 Jan 2026 8:40 pm","4.00 JOD","0.00 JOD","0.00 JOD","4.00 JOD","Pick Up",COD,Delivered,4,0,0
+187048,"Kababji 🇯🇴","Majed  Qtaishat",777666422,majed.alqtaishat@gmail.com,"26 Jan 2026 8:36 pm","10.80 JOD","0.00 JOD","2.43 JOD","14.09 JOD",Delivery,COD,Delivered,14.09,0,0
+187047,"Night Shift Burger 🇯🇴",Yassmin,792680860,Merakijordan@gmail.com,"26 Jan 2026 8:34 pm","26.10 JOD","0.00 JOD","3.76 JOD","30.52 JOD",Delivery,COD,Delivered,27.1628,0,3.3572
+187046,"Ned's Pizza 🇯🇴","Ala Al Saket",0796666014,alasaket@gmail.com,"26 Jan 2026 8:29 pm","33.00 JOD","0.00 JOD","3.00 JOD","36.00 JOD",Delivery,COD,Delivered,36,0,0
+187045,"Nommers  🇯🇴","Hisham Alfar",795035939,Hishamalfar123@gmail.com,"26 Jan 2026 8:29 pm","20.00 JOD","4.00 JOD","0.00 JOD","16.54 JOD","Pick Up",COD,Delivered,16.54,0,0
+187044,"THE FIT BAR™",Omar,795888029,Omar.totah44@gmail.com,"26 Jan 2026 8:27 pm","8.75 JOD","1.75 JOD","0.00 JOD","7.24 JOD","Pick Up",MEPS,Delivered,6.8142,0.16154,0.4258
+187043,"Ned's Pizza 🇯🇴",Amira,799217477,Amirajaradat@gmail.com,"26 Jan 2026 8:20 pm","14.50 JOD","0.00 JOD","3.00 JOD","19.50 JOD",Delivery,MEPS,Delivered,18.9905,0.26575,0.5095
+187042,"Sugaraholic 🇯🇴",Tamara,796522686,tamara.arafat94@gmail.com,"26 Jan 2026 8:08 pm","5.25 JOD","0.00 JOD","1.50 JOD","6.89 JOD",Delivery,APPLE_PAY,Delivered,6.5833,0.158565,0.3067
+187041,"Ned's Pizza 🇯🇴",Moh,795588989,Mohamad.alkubaisi@yahoo.com,"26 Jan 2026 8:04 pm","11.75 JOD","0.00 JOD","3.00 JOD","14.75 JOD",Delivery,APPLE_PAY,Delivered,14.34025,0.225375,0.40975
+187040,"Crab and More 🇯🇴",jad,779900800,jadabdelnour09@gmail.com,"26 Jan 2026 8:04 pm","20.50 JOD","0.00 JOD","5.40 JOD","25.90 JOD",Delivery,APPLE_PAY,Delivered,25.4115,0.32015,0.4885
+187039,"Sushi Crush 🇯🇴",Manal,796935492,manaleliassaba@gmail.com,"26 Jan 2026 7:54 pm","15.75 JOD","3.00 JOD","2.55 JOD","15.73 JOD",Delivery,MEPS,Delivered,15.73,0,0
+187038,"Dough Union  🇯🇴","Ali Alsarhan",798989108,alialsarhan91@gmail.com,"26 Jan 2026 7:54 pm","22.47 JOD","4.49 JOD","5.21 JOD","23.80 JOD",Delivery,COD,Delivered,23.8,0,0
+187037,"Nidal Al Kalha 🇯🇴",Batoul,786124686,Batoolsami2003@gmail.comb,"26 Jan 2026 7:49 pm","3.60 JOD","0.00 JOD","1.26 JOD","4.96 JOD",Delivery,COD,Delivered,4.96,0,0
+187036,"Ned's Pizza 🇯🇴","Fadi F",795228866,fadifaza@gmail.com,"26 Jan 2026 7:47 pm","20.50 JOD","0.00 JOD","3.00 JOD","24.50 JOD",Delivery,APPLE_PAY,Delivered,23.8855,0.30825,0.6145
+187035,"Ocho Kave Matcha 🇯🇴",Rita,795702472,bisharatrita1578@gmail.com,"26 Jan 2026 7:46 pm","4.94 JOD","0.00 JOD","3.60 JOD","8.67 JOD",Delivery,APPLE_PAY,Delivered,8.18852,0.173695,0.48148
+187034,"Nidal Al Kalha 🇯🇴",Osama,776945709,itsosama5@gmail.com,"26 Jan 2026 7:42 pm","0.99 JOD","0.00 JOD","0.00 JOD","1.02 JOD","Pick Up",COD,Delivered,1.02,0,0
+187033,"The Cake Baker 🇯🇴",Ayat,779664837,ayat82@yahoo.com,"26 Jan 2026 7:39 pm","9.00 JOD","0.00 JOD","1.74 JOD","10.74 JOD",Delivery,COD,Delivered,10.74,0,0
+187032,"Toby's 🇯🇴",Sara,796728075,sarah_kha89@gmail.com,"26 Jan 2026 7:39 pm","8.99 JOD","0.00 JOD","3.21 JOD","11.44 JOD",Delivery,COD,Delivered,9.724,0,1.716
+187031,"Yazan Shawerma 🇯🇴","خالد خليفات",797555269,k8455991@gmail.com,"26 Jan 2026 7:36 pm","3.00 JOD","0.00 JOD","0.00 JOD","3.00 JOD","Pick Up",COD,Delivered,3,0,0
+187030,"Yazan Shawerma 🇯🇴","Hala tv",770429666,gazysandoqa120@gmail.com,"26 Jan 2026 7:36 pm","4.20 JOD","0.00 JOD","0.00 JOD","4.20 JOD","Pick Up",COD,Delivered,4.2,0,0
+187029,"Ocho Kave Matcha 🇯🇴",sarah,799962597,sarahalsayyed10@gmail.com,"26 Jan 2026 7:32 pm","9.88 JOD","0.00 JOD","3.01 JOD","13.16 JOD",Delivery,APPLE_PAY,Delivered,12.48096,0.21186,0.67904
+187028,"The Whisk  🇯🇴","Raghad Issa",775464405,issaraghad07@gmail.com,"26 Jan 2026 7:32 pm","13.00 JOD","2.60 JOD","4.89 JOD","15.64 JOD",Delivery,COD,Delivered,15.64,0,0
+187027,"Sushi Crush 🇯🇴",Sanar,798713681,sanrsadaqa2002@gmail.com,"26 Jan 2026 7:27 pm","21.60 JOD","0.00 JOD","4.39 JOD","26.57 JOD",Delivery,COD,Delivered,26.57,0,0
+187026,"Yazan Shawerma 🇯🇴",Ramzi,772289258,Ramzikarakhijazeen@hotmail.com,"26 Jan 2026 7:24 pm","11.00 JOD","0.00 JOD","0.00 JOD","11.00 JOD","Pick Up",COD,Delivered,11,0,0
+187025,"Nidal Al Kalha 🇯🇴",Qusai,770491830,Qusaiabuashour1234@gmail.com,"26 Jan 2026 7:23 pm","1.58 JOD","0.00 JOD","0.00 JOD","1.62 JOD","Pick Up",COD,Delivered,1.62,0,0
+187024,"Nitzel Box 🇯🇴",Khalid,777200060,khalidkassim@gmail.com,"26 Jan 2026 7:21 pm","13.86 JOD","2.77 JOD","2.25 JOD","15.21 JOD",Delivery,APPLE_PAY,Delivered,13.7411,0.229285,1.4689
+187022,"Yazan Shawerma 🇯🇴",Ramzi,772289258,Ramzikarakhijazeen@hotmail.com,"26 Jan 2026 7:18 pm","11.00 JOD","0.00 JOD","0.00 JOD","11.00 JOD","Pick Up",COD,Delivered,11,0,0
+187021,"Ned's Pizza 🇯🇴",عبود,797326920,A.rawjbeh@gmail.com,"26 Jan 2026 7:14 pm","28.00 JOD","0.00 JOD","0.00 JOD","29.12 JOD",Delivery,APPLE_PAY,Delivered,26.3992,0.34752,2.7208
+187020,"Bash Burger 🇯🇴",Reema,798275522,reemajubran1@gmail.com,"26 Jan 2026 7:14 pm","10.44 JOD","2.09 JOD","4.00 JOD","13.97 JOD",Delivery,APPLE_PAY,Delivered,13.3112,0.218745,0.6588
+187019,"Foron Abd 🇯🇴",Abdallah,793373273,4ZH9u1747248680@bitesnbags.com,"26 Jan 2026 7:06 pm","7.20 JOD","1.44 JOD","2.12 JOD","8.07 JOD",Delivery,APPLE_PAY,Delivered,7.63913,0.168595,0.43087
+187018,"Nidal Al Kalha 🇯🇴","adam ghassan",791806260,adamalhily@gmail.com,"26 Jan 2026 7:05 pm","0.75 JOD","0.00 JOD","0.00 JOD","0.77 JOD","Pick Up",COD,Delivered,0.77,0,0
+187017,"Kababji 🇯🇴","Issam Shnoudeh",795800698,Issamshnoudeh@gmail.com,"26 Jan 2026 7:03 pm","19.45 JOD","1.17 JOD","2.43 JOD","22.17 JOD",Delivery,HYPERPAY,Delivered,22.17,0,0
+187016,"Ned's Pizza 🇯🇴","Nadim Qusous",796155551,nadimqusous@gmail.com,"26 Jan 2026 7:01 pm","36.75 JOD","0.00 JOD","3.00 JOD","39.75 JOD",Delivery,MEPS,Delivered,38.81525,0.437875,0.93475
+187014,"Crab and More 🇯🇴",Amenah,790086364,aalrefaie04@gmail.com,"26 Jan 2026 7:00 pm","13.00 JOD","0.00 JOD","2.47 JOD","15.47 JOD",Delivery,APPLE_PAY,Delivered,15.13795,0.231495,0.33205
+187013,"Nommers  🇯🇴","Motee Snounou",777555058,m.snounou@gmail.com,"26 Jan 2026 6:58 pm","27.00 JOD","5.40 JOD","0.00 JOD","22.33 JOD","Pick Up",COD,Delivered,22.33,0,0
+187011,"Phantom Kitchen 🇯🇴","Mohammad AlMutasem",793071999,mohammad.mutasem49@gmail.com,"26 Jan 2026 6:56 pm","11.00 JOD","2.20 JOD","1.00 JOD","10.10 JOD",Delivery,APPLE_PAY,Delivered,9.2425,0.18585,0.8575
+187010,"Four Winters 🇯🇴",Ola,796620354,ola.hourani08@gmail,"26 Jan 2026 6:50 pm","19.44 JOD","4.86 JOD","6.56 JOD","23.99 JOD",Delivery,COD,Delivered,23.99,0,0
+187009,"Sumac Co. 🇯🇴","Sofi Naqeeb",798342959,sofibnaqeeb@gmail.com,"26 Jan 2026 6:43 pm","14.00 JOD","2.80 JOD","0.50 JOD","12.08 JOD",Delivery,APPLE_PAY,Delivered,11.47264,0.20268,0.60736
+187007,"Teta Raheebeh 🇯🇴","Hala Alhadid",796500023,Halahadid95@proton.me,"26 Jan 2026 6:31 pm","12.44 JOD","0.00 JOD","5.64 JOD","18.02 JOD",Delivery,MEPS,Delivered,14.8566,0.25317,3.1634
+187006,"Kababji 🇯🇴",Hussein,779923966,hdurra80@hotmail.com,"26 Jan 2026 6:30 pm","15.90 JOD","0.00 JOD","2.43 JOD","19.60 JOD",Delivery,COD,Delivered,19.6,0,0
+187005,"Yazan Shawerma 🇯🇴",Saja,792830117,shahedalsharef904@gmail.con,"26 Jan 2026 6:30 pm","5.20 JOD","0.00 JOD","2.00 JOD","7.34 JOD",Delivery,COD,Delivered,7.34,0,0
+187004,"Nommers  🇯🇴","Khalid obeidat",799730262,khaledobaidat@hotmail.com,"26 Jan 2026 6:28 pm","20.00 JOD","4.00 JOD","4.37 JOD","20.91 JOD",Delivery,MEPS,Delivered,19.9736,0.277735,0.9364
+187003,"Sushi Crush 🇯🇴","Zain Sous",799374161,Zainsous@hotmail.com,"26 Jan 2026 6:25 pm","22.99 JOD","3.00 JOD","2.25 JOD","22.93 JOD",Delivery,APPLE_PAY,Delivered,20.7663,0.294905,2.1637
+187002,"Yazan Shawerma 🇯🇴","Reem Al ghawei",796353027,reemabumusa432@gmail.com,"26 Jan 2026 6:20 pm","7.80 JOD","0.00 JOD","0.00 JOD","7.80 JOD","Pick Up",COD,Delivered,7.8,0,0
+187001,"Ned's Pizza 🇯🇴",Eyad,791313639,Eyad.alomar@outlook.com,"26 Jan 2026 6:16 pm","25.00 JOD","0.00 JOD","0.00 JOD","25.00 JOD","Pick Up",COD,Delivered,25,0,0
+187000,"Pizza SQRD 🇯🇴",Ahmed,781201457,ah.rwajbeh@gmail.com,"26 Jan 2026 6:14 pm","16.40 JOD","0.00 JOD","4.91 JOD","21.97 JOD",Delivery,COD,Delivered,19.773,0,2.197
+186999,"Yazan Shawerma 🇯🇴","عبدالله المساعدة",798549287,aboodalmsaadeh97@gmail.com,"26 Jan 2026 6:11 pm","2.60 JOD","0.00 JOD","0.00 JOD","2.60 JOD","Pick Up",COD,Delivered,2.6,0,0
+186998,"Nidal Al Kalha 🇯🇴",Khaled,792907700,Jalalnserat2020@gamil.com,"26 Jan 2026 6:07 pm","1.35 JOD","0.00 JOD","0.00 JOD","1.39 JOD","Pick Up",COD,Delivered,1.39,0,0
+186997,"Yazan Shawerma 🇯🇴","مهند نصار",788148145,hussamh2004@gmail.com,"26 Jan 2026 6:05 pm","6.70 JOD","0.00 JOD","0.00 JOD","6.97 JOD",Delivery,MEPS,Delivered,5.9639,0.159245,1.0061
+186996,"Russian Media 🇯🇴",ruba,777291220,y4I1U1675441240@bitesnbags.com,"26 Jan 2026 6:04 pm","10.50 JOD","0.00 JOD","1.96 JOD","12.74 JOD",Delivery,COD,Delivered,12.74,0,0
+186995,"Kababji 🇯🇴",Abdallah,799471111,Abdallah-odeh@outlook.com,"26 Jan 2026 5:55 pm","3.95 JOD","0.00 JOD","0.00 JOD","4.27 JOD","Pick Up",COD,Delivered,4.27,0,0
+186994,"Yazan Shawerma 🇯🇴","Safa nablus",781376267,Safaalnablsi171@gmail.com,"26 Jan 2026 5:54 pm","17.10 JOD","0.00 JOD","1.00 JOD","18.56 JOD",Delivery,COD,Delivered,18.56,0,0
+186993,"OPI Orders","Ahmad Alashqar",795790015,ahmdalashqar@gmail.com,"26 Jan 2026 5:52 pm","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,"Confirming Order...",0,0,0
+186992,"Don Poio 🇯🇴","Miral aljboury",796669273,miralaljboury@gmail.com,"26 Jan 2026 5:45 pm","18.25 JOD","0.00 JOD","0.00 JOD","18.25 JOD","Pick Up",COD,Delivered,18.25,0,0
+186991,"OPI Orders","Ahmad Alashqar",795790015,ahmdalashqar@gmail.com,"26 Jan 2026 5:45 pm","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,"Confirming Order...",0,0,0
+186990,"Ned's Pizza 🇯🇴","Nicholas Turner",775977717,nickturner03@yahoo.com,"26 Jan 2026 5:32 pm","39.00 JOD","0.00 JOD","3.00 JOD","44.00 JOD",Delivery,APPLE_PAY,Delivered,42.976,0.474,1.024
+186989,"Korean Bistro Manna 🇰🇷",Sawsan,796339296,sawsan.alzatari@gmail.com,"26 Jan 2026 5:29 pm","19.79 JOD","0.00 JOD","3.50 JOD","23.82 JOD",Delivery,COD,Delivered,23.82,0,0
+186988,"Sushi Crush 🇯🇴",Niveen,796531733,Niveen.sukar@hotmail.com,"26 Jan 2026 5:29 pm","18.25 JOD","10.00 JOD","1.88 JOD","10.62 JOD",Delivery,MEPS,Delivered,10.62,0,0
+186987,"Ned's Pizza 🇯🇴",farah,796644404,L1bjj1726500318@bitesnbags.com,"26 Jan 2026 5:25 pm","17.50 JOD","0.00 JOD","3.00 JOD","20.50 JOD",Delivery,COD,Delivered,20.5,0,0
+186986,"Korean Bistro Manna 🇰🇷",ali,797406455,ali5jaragh@gmail.com,"26 Jan 2026 5:22 pm","3.60 JOD","0.00 JOD","2.98 JOD","6.68 JOD",Delivery,APPLE_PAY,Delivered,6.3128,0.15678,0.3672
+186984,"Azul Pastry 🇯🇴",Aya,796385457,aya.ali1995.aa@gmail.com,"26 Jan 2026 5:17 pm","26.00 JOD","5.20 JOD","5.00 JOD","26.50 JOD",Delivery,APPLE_PAY,Delivered,25.34,0.32525,1.16
+186983,"Anneta's Bakery 🇯🇴",Farah,792822939,farah.do.my.curls@gmail.com,"26 Jan 2026 5:17 pm","3.10 JOD","0.47 JOD","1.40 JOD","4.11 JOD",Delivery,COD,Delivered,4.11,0,0
+186981,"Yazan Shawerma 🇯🇴","Mohammad Assi",778809495,mo.assi124@gmail.com,"26 Jan 2026 5:15 pm","3.65 JOD","0.00 JOD","0.00 JOD","3.65 JOD","Pick Up",COD,Delivered,3.65,0,0
+186980,"Hash Burger 🇯🇴","Sadeel Majed",790404225,s12114719@stu.najah.edu,"26 Jan 2026 5:14 pm","10.05 JOD","1.01 JOD","2.00 JOD","10.74 JOD",Delivery,MEPS,Delivered,9.4586,0.19129,1.2814
+186979,"The Cake Baker 🇯🇴",Mai,790628787,Mai.bitar@outlook.com,"26 Jan 2026 5:14 pm","25.00 JOD","0.00 JOD","2.76 JOD","27.76 JOD",Delivery,APPLE_PAY,Delivered,26.52184,0.33596,1.23816
+186977,"Yazan Shawerma 🇯🇴","Mohammed abu khaled",797040953,abukhaled.mohammed12345@gmail.com,"26 Jan 2026 5:11 pm","15.60 JOD","0.00 JOD","1.50 JOD","17.52 JOD",Delivery,COD,Delivered,17.52,0,0
+186974,"Tikka Chicken 🇯🇴","Walaa Kalbouneh",797653848,walaa-kalboneh@hotmail.com,"26 Jan 2026 5:09 pm","16.76 JOD","0.00 JOD","5.00 JOD","22.21 JOD",Delivery,APPLE_PAY,Delivered,21.19939,0.288785,1.01061
+186973,"Komat Qash Bakery 🇯🇴",Khaled,799417166,khaledbassam993@yahoo.com,"26 Jan 2026 5:08 pm","18.50 JOD","0.00 JOD","1.56 JOD","23.52 JOD",Delivery,APPLE_PAY,"Rejected by Place",22.45568,0.29992,1.06432
+186972,"The Dottir 🇯🇴","Dina Shawar",799555510,dina692@gmail.com,"26 Jan 2026 5:00 pm","38.00 JOD","0.00 JOD","3.00 JOD","41.00 JOD",Delivery,COD,"Order Accepted",41,0,0
+186971,"Yazan Shawerma 🇯🇴","Maryam shamayleh",791211527,Maryam.shamayleh@hotmail.com,"26 Jan 2026 4:50 pm","14.60 JOD","0.00 JOD","2.00 JOD","16.99 JOD",Delivery,COD,Delivered,16.99,0,0
+186970,"Sumac Co. 🇯🇴","Lina Alsaffar",798332332,lina.alsaffar2@gmail.com,"26 Jan 2026 4:49 pm","7.00 JOD","0.00 JOD","2.00 JOD","8.58 JOD",Delivery,APPLE_PAY,Delivered,7.7078,0.17293,0.8722
+186969,"Nidal Al Kalha 🇯🇴",Ahmad,782035302,Ahmed.Omar.Heiba@gmail.com,"26 Jan 2026 4:45 pm","1.69 JOD","0.00 JOD","0.00 JOD","1.74 JOD","Pick Up",COD,Delivered,1.74,0,0
+186968,"Ned's Pizza 🇯🇴",Dania,795743498,D.habannakeh@hotmail.con,"26 Jan 2026 4:43 pm","21.00 JOD","0.00 JOD","0.00 JOD","21.00 JOD","Pick Up",COD,Delivered,21,0,0
+186967,"Nidal Al Kalha 🇯🇴","Omran alkwaldeh",772408265,Omranbh9910@gmail.com,"26 Jan 2026 4:41 pm","1.20 JOD","0.00 JOD","0.00 JOD","1.23 JOD","Pick Up",COD,Delivered,1.23,0,0
+186966,"Yazan Shawerma 🇯🇴","Maryam shamayleh",791211527,Maryam.shamayleh@hotmail.com,"26 Jan 2026 4:41 pm","11.00 JOD","0.00 JOD","2.00 JOD","13.30 JOD",Delivery,COD,Delivered,13.3,0,0
+186965,"Sumac Co. 🇯🇴",Zaid,776387670,zaidddaoud90@hotmail.com,"26 Jan 2026 4:39 pm","12.00 JOD","2.40 JOD","3.50 JOD","13.42 JOD",Delivery,APPLE_PAY,Delivered,12.75636,0.21407,0.66364
+186964,"Korean Bistro Manna 🇰🇷",Randa,797278388,Ran20230391@std.psut.edu.jo,"26 Jan 2026 4:39 pm","6.38 JOD","0.00 JOD","0.00 JOD","6.64 JOD",Delivery,APPLE_PAY,Delivered,5.9424,0.15644,0.6976
+186961,"The Dottir 🇯🇴",Noor,796559984,noor_jabri@hotmail.com,"26 Jan 2026 4:29 pm","25.00 JOD","0.00 JOD","3.00 JOD","28.00 JOD",Delivery,COD,"Order Accepted",28,0,0
+186960,"Kababji 🇯🇴",Noor,795509446,nour376@hotmail.com,"26 Jan 2026 4:13 pm","25.65 JOD","5.00 JOD","2.43 JOD","24.73 JOD",Delivery,COD,Delivered,24.73,0,0
+186959,"Pachi Pizza & Pasta 🇯🇴","Naser AlAssali",788099161,nax.roma@gmail.com,"26 Jan 2026 4:11 pm","23.80 JOD","0.00 JOD","0.00 JOD","26.65 JOD",Delivery,APPLE_PAY,Delivered,24.1515,0.326525,2.4985
+186958,"Yazan Shawerma 🇯🇴",Mahde,796285637,mahdeyousef97@gmail.com,"26 Jan 2026 4:10 pm","2.20 JOD","0.00 JOD","1.00 JOD","3.26 JOD",Delivery,COD,Delivered,3.26,0,0
+186957,"Dough Union  🇯🇴","Nadia Bata",796808111,nadiabata1986@gmail.com,"26 Jan 2026 4:04 pm","17.22 JOD","3.44 JOD","2.40 JOD","16.64 JOD",Delivery,COD,Delivered,16.64,0,0
+186956,"DRP COFFEE 🇯🇴","Zaina badran",790152369,Zainamb2199@gmail.com,"26 Jan 2026 4:04 pm","5.50 JOD","3.00 JOD","2.56 JOD","4.77 JOD",Delivery,COD,Delivered,4.3407,0,0.4293
+186955,"Sushi Crush 🇯🇴",Sarah,790894540,jeonjina@gmail.com,"26 Jan 2026 3:56 pm","28.99 JOD","0.00 JOD","0.00 JOD","29.77 JOD","Pick Up",COD,Delivered,29.77,0,0
+186954,"Crab and More 🇯🇴","Yazeed Jahmani",799126817,yjahmani@hotmail.com,"26 Jan 2026 3:54 pm","50.50 JOD","0.00 JOD","3.91 JOD","54.41 JOD",Delivery,MEPS,Delivered,53.49385,0.562485,0.91615
+186953,"Yazan Shawerma 🇯🇴",Mo'men,780682472,qutamimomen@gmail.com,"26 Jan 2026 3:50 pm","3.00 JOD","0.00 JOD","0.00 JOD","3.00 JOD","Pick Up",COD,Delivered,3,0,0
+186952,"Chickano 🇯🇴","Esraa alnairat",786989485,Esraa.pal91@hotmail.com,"26 Jan 2026 3:49 pm","30.40 JOD","0.00 JOD","2.00 JOD","35.65 JOD",Delivery,COD,Delivered,35.65,0,0
+186951,"Sumac Co. 🇯🇴","Jack Khoury",796744400,jackkhoury98@gmail.com,"26 Jan 2026 3:48 pm","6.00 JOD","1.20 JOD","0.00 JOD","4.96 JOD","Pick Up",COD,Delivered,4.96,0,0
+186950,"Ned's Pizza 🇯🇴",Gino,790061700,Gag.deals@gmail.com,"26 Jan 2026 3:43 pm","31.75 JOD","5.00 JOD","5.00 JOD","31.75 JOD",Delivery,APPLE_PAY,Delivered,30.98325,0.369875,0.76675
+186949,"Tikka Chicken 🇯🇴","Samer sweidan",790844342,mr.sweidan@hotmail.com,"26 Jan 2026 3:36 pm","40.00 JOD","0.00 JOD","0.00 JOD","40.99 JOD","Pick Up",COD,Delivered,40.99,0,0
+186948,"Ned's Pizza 🇯🇴","Mohd Mansour",0777973379,Moemans00@gmail.com,"26 Jan 2026 3:36 pm","59.10 JOD","0.00 JOD","3.00 JOD","62.10 JOD",Delivery,APPLE_PAY,Delivered,60.6959,0.62785,1.4041
+186947,"Foron Abd 🇯🇴",MOHD,795434341,Mhantashooms@gmail.com,"26 Jan 2026 3:26 pm","7.40 JOD","1.48 JOD","0.00 JOD","6.12 JOD","Pick Up",COD,Delivered,6.12,0,0
+186946,"Flour & Fire 🇯🇴","Zena Ahmad",775657013,zenaaldeiri5@icloud.com,"26 Jan 2026 3:23 pm","3.00 JOD","0.00 JOD","1.58 JOD","4.66 JOD",Delivery,COD,Delivered,4.66,0,0
+186945,"Yazan Shawerma 🇯🇴","Om ra’ed",799701175,Es.melhim@gmail.com,"26 Jan 2026 3:02 pm","5.30 JOD","0.00 JOD","0.00 JOD","5.30 JOD","Pick Up",COD,Delivered,5.3,0,0
+186944,"Hash Burger 🇯🇴",Leena,785811242,leenasaeh02@gmail.com,"26 Jan 2026 2:58 pm","15.50 JOD","1.55 JOD","3.50 JOD","17.87 JOD",Delivery,COD,Delivered,17.87,0,0
+186943,"Sushi Crush 🇯🇴",Yusra,782400089,Yusra.0963@icloud.com,"26 Jan 2026 2:53 pm","22.99 JOD","0.00 JOD","0.00 JOD","23.91 JOD",Delivery,MEPS,Delivered,21.6581,0.303235,2.2519
+186942,"The Cakery","Osama Malahmeh",777313158,osama@pqvpaper.com,"26 Jan 2026 2:49 pm","9.75 JOD","0.00 JOD","4.00 JOD","13.75 JOD",Delivery,COD,"Order Accepted",13.75,0,0
+186941,"Nommers  🇯🇴","Malak Alawneh",796561144,malakalawneh87@gmail.com,"26 Jan 2026 2:47 pm","12.00 JOD","2.40 JOD","2.18 JOD","12.10 JOD",Delivery,COD,Delivered,12.1,0,0
+186940,"Sushi Crush 🇯🇴",Aya,797187973,ayoshalzoubi@gmail.com,"26 Jan 2026 2:25 pm","18.74 JOD","0.00 JOD","0.00 JOD","19.25 JOD","Pick Up",MEPS,Delivered,19.25,0,0
+186939,"THE FIT BAR™",Lema,797373747,lema200@yahoo.com,"26 Jan 2026 2:18 pm","20.20 JOD","0.00 JOD","3.76 JOD","24.51 JOD",Delivery,MEPS,Delivered,23.30705,0.308335,1.20295
+186938,"Pizza Nina 🇯🇴","Rana Alloysh",795704995,raalloush@gmail.com,"26 Jan 2026 2:14 pm","12.00 JOD","2.40 JOD","3.00 JOD","12.87 JOD",Delivery,COD,Delivered,12.87,0,0
+186937,"Ned's Pizza 🇯🇴",ramzi,795352789,FPK8H1753536288@bitesnbags.com,"26 Jan 2026 2:08 pm","14.00 JOD","0.00 JOD","3.00 JOD","17.00 JOD",Delivery,COD,Delivered,17,0,0
+186936,"Nidal Al Kalha 🇯🇴",Ibrahim,787778929,Ibrahimjoudh58@gmail.com,"26 Jan 2026 1:53 pm","1.46 JOD","0.00 JOD","0.00 JOD","1.50 JOD","Pick Up",COD,Delivered,1.5,0,0
+186935,"Kababji 🇯🇴","Yasmine Rashdan",799933302,yasmine.rashdan@hotmail.com,"26 Jan 2026 1:53 pm","28.65 JOD","3.41 JOD","2.43 JOD","29.69 JOD",Delivery,HYPERPAY,Delivered,29.69,0,0
+186934,"Nidal Al Kalha 🇯🇴","Anas Alyamani",797130127,an94as94000@gmail.com,"26 Jan 2026 1:41 pm","4.88 JOD","0.00 JOD","0.00 JOD","5.01 JOD","Pick Up",COD,Delivered,5.01,0,0
+186933,"Yazan Shawerma 🇯🇴",Taqwa,782129522,tabeuae@yahoo.com,"26 Jan 2026 1:38 pm","15.40 JOD","0.00 JOD","0.00 JOD","15.40 JOD","Pick Up",COD,Delivered,15.4,0,0
+186932,"Korean Bistro Manna 🇰🇷",Safa,795009093,hijazeen@me.com,"26 Jan 2026 1:30 pm","13.43 JOD","0.00 JOD","1.56 JOD","15.35 JOD",Delivery,APPLE_PAY,Delivered,14.636,0.230475,0.714
+186931,"Ocho Kave Matcha 🇯🇴",Noura,796531725,Noura.barakat@outlook.com,"26 Jan 2026 1:29 pm","9.88 JOD","0.00 JOD","1.72 JOD","11.87 JOD",Delivery,APPLE_PAY,Delivered,11.24772,0.200895,0.62228
+186930,"Kababji 🇯🇴",Rola,791174319,rorojaber1984@gmail.com,"26 Jan 2026 1:27 pm","5.90 JOD","1.18 JOD","2.43 JOD","7.53 JOD",Delivery,HYPERPAY,Delivered,7.53,0,0
+186929,"OPI Orders","Ahmad Alashqar",795790015,ahmdalashqar@gmail.com,"26 Jan 2026 1:20 pm","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,Delivered,0,0,0
+186928,"TJ Burger 🇯🇴",فادي,799639344,Sweis412@gmail.com,"26 Jan 2026 1:17 pm","8.00 JOD","2.00 JOD","0.00 JOD","7.18 JOD",Delivery,COD,Delivered,7.18,0,0
+186927,"Yazan Shawerma 🇯🇴","Anoud snabrah",791898106,Anouddsnabrah95@gmail.com,"26 Jan 2026 1:15 pm","22.00 JOD","0.00 JOD","0.00 JOD","22.00 JOD","Pick Up",COD,Delivered,22,0,0
+186926,"Pizza Nina 🇯🇴",Heba,795824050,Heba_istaitieh@hotmail.com,"26 Jan 2026 1:13 pm","44.75 JOD","8.95 JOD","1.00 JOD","37.79 JOD",Delivery,APPLE_PAY,Delivered,36.10282,0.421215,1.68718
+186925,"OPI Orders","Yahya Al Sulaihat",777079244,Yahyaalsulaihat@gmail.com,"26 Jan 2026 1:11 pm","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,Delivered,0,0,0
+186924,"Nidal Al Kalha 🇯🇴",rashed,772751651,ralshunaq18@gmail.com,"26 Jan 2026 1:05 pm","1.80 JOD","0.00 JOD","0.00 JOD","1.85 JOD","Pick Up",COD,Delivered,1.85,0,0
+186923,"Sushi Crush 🇯🇴",Asmaa,790750501,eqad295k@gmail.com,"26 Jan 2026 1:02 pm","14.60 JOD","0.00 JOD","0.00 JOD","14.99 JOD","Pick Up",COD,Delivered,14.99,0,0
+186922,"Hashi Sushi 🇯🇴","Aram Nimer",789809252,gharam21nimer@email.com,"26 Jan 2026 12:53 pm","21.40 JOD","4.28 JOD","3.00 JOD","20.70 JOD",Delivery,COD,Delivered,20.7,0,0
+186921,"Tandoori Oven 🇯🇴",Ibrahim,799272884,iqawasmeh@gmail.com,"26 Jan 2026 12:52 pm","32.88 JOD","5.00 JOD","0.00 JOD","31.00 JOD","Pick Up",COD,Delivered,31,0,0
+186920,"OPI Orders","Bashar Hamdan",790848740,basharhamdan2021@gmail.com,"26 Jan 2026 12:48 pm","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,"Order Accepted",0,0,0
+186919,"Sushi Crush 🇯🇴","Nahla Bakeer Bakeer",777483334,nahla.bakeer@rescue.org,"26 Jan 2026 12:46 pm","15.98 JOD","0.00 JOD","0.00 JOD","16.41 JOD","Pick Up",COD,Delivered,16.41,0,0
+186918,"Anneta's Bakery 🇯🇴",Hala,792532811,halaamro57@yahoo.es,"26 Jan 2026 12:46 pm","1.90 JOD","0.29 JOD","1.50 JOD","3.16 JOD",Delivery,COD,Delivered,3.16,0,0
+186917,"Anneta's Bakery 🇯🇴",Hala,792532811,halaamro57@yahoo.es,"26 Jan 2026 12:44 pm","1.90 JOD","0.29 JOD","0.00 JOD","1.66 JOD","Pick Up",COD,Cancelled,1.66,0,0
+186916,"Pachi Pizza & Pasta 🇯🇴",Poire,791000869,Laurent.poire@veolia.com,"26 Jan 2026 12:35 pm","20.90 JOD","5.00 JOD","0.00 JOD","17.73 JOD","Pick Up",MEPS,Delivered,16.88534,0.250705,0.84466
+186915,"Bash Burger 🇯🇴",Amar,791153064,Amar.meshal24@gmail.com,"26 Jan 2026 12:35 pm","6.92 JOD","5.00 JOD","0.00 JOD","2.42 JOD","Pick Up",COD,Delivered,2.42,0,0
+186914,"OPI Orders","Yahya Al Sulaihat",777079244,Yahyaalsulaihat@gmail.com,"26 Jan 2026 12:35 pm","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,Delivered,0,0,0
+186913,"Komat Qash Bakery 🇯🇴","Sara Abusall",799968215,abusallsara@gmail.com,"26 Jan 2026 12:28 pm","8.50 JOD","0.00 JOD","1.85 JOD","11.94 JOD",Delivery,COD,Delivered,11.94,0,0
+186912,"Nidal Al Kalha 🇯🇴","Abdullah Aljaafreh",790800411,balastwrt011@gmail.com,"26 Jan 2026 12:23 pm","1.13 JOD","0.00 JOD","0.00 JOD","1.16 JOD","Pick Up",COD,Delivered,1.16,0,0
+186911,"The Dottir 🇯🇴","Zena Hernandez",790920857,zien21@yahoo.com,"26 Jan 2026 12:22 pm","60.00 JOD","0.00 JOD","3.00 JOD","63.00 JOD",Delivery,COD,"Order Accepted",63,0,0
+186910,"The Cakery","Salma Mitkees",793122272,salma.mitkees@gmail.com,"26 Jan 2026 12:16 pm","42.00 JOD","0.00 JOD","4.00 JOD","46.00 JOD",Delivery,COD,Delivered,46,0,0
+186909,"Sakura Sushi 🇯🇴","Farah kharouf",791772111,Farah.kharoof72@gmail.com,"26 Jan 2026 12:15 pm","39.47 JOD","7.89 JOD","2.85 JOD","35.42 JOD",Delivery,APPLE_PAY,Delivered,33.7261,0.40107,1.6939
+186908,"Four Winters 🇯🇴",Omar,791142628,omar.emansour2014@gmail.com,"26 Jan 2026 12:05 pm","25.17 JOD","6.29 JOD","2.14 JOD","24.72 JOD",Delivery,APPLE_PAY,Delivered,23.58176,0.31012,1.13824
+186907,"Yazan Shawerma 🇯🇴","Haneen Al-Halaseh",793360070,Hr@taleen.com,"26 Jan 2026 12:04 pm","9.70 JOD","0.00 JOD","1.50 JOD","11.46 JOD",Delivery,COD,Delivered,11.46,0,0
+186906,"Nidal Al Kalha 🇯🇴",ابراهيم,780400332,jarha87@gmail.com,"26 Jan 2026 12:00 pm","2.00 JOD","0.00 JOD","0.00 JOD","2.05 JOD","Pick Up",COD,Delivered,2.05,0,0
+186905,"Nidal Al Kalha 🇯🇴",Ghazi,795428553,ghaziismail000@gmail.com,"26 Jan 2026 11:55 am","3.87 JOD","0.00 JOD","0.00 JOD","3.97 JOD","Pick Up",COD,Delivered,3.97,0,0
+186904,"The Dottir 🇯🇴","ruba samrdali fname",798768730,ruba.samrdali@gmail.com,"26 Jan 2026 11:48 am","61.00 JOD","0.00 JOD","3.00 JOD","64.00 JOD",Delivery,COD,"Order Accepted",64,0,0
+186903,"Kababji 🇯🇴","Sewar Hourani",795039668,sewar.hourani91@gmail.com,"26 Jan 2026 11:47 am","39.55 JOD","7.91 JOD","4.86 JOD","39.03 JOD",Delivery,COD,Delivered,39.03,0,0
+186902,"Eggcited 🇯🇴","Dania Azzazi",797550159,dania.azzazi@gmail.com,"26 Jan 2026 11:47 am","12.55 JOD","0.00 JOD","0.00 JOD","12.55 JOD","Pick Up",COD,Delivered,12.55,0,0
+186901,"Eggcited 🇯🇴",Rani,795553736,Rani_khoury@yahoo.com,"26 Jan 2026 11:40 am","2.15 JOD","0.43 JOD","0.00 JOD","1.72 JOD","Pick Up",COD,"Order is Ready",1.72,0,0
+186900,"Donuttery 🇯🇴",Hussam,795050081,amary82@hotmail.com,"26 Jan 2026 11:38 am","17.25 JOD","0.00 JOD","0.00 JOD","17.72 JOD","Pick Up",COD,Delivered,17.72,0,0
+186899,"Nidal Al Kalha 🇯🇴",Ahmad,770437740,ahmadaljzazzi27@gmail.com,"26 Jan 2026 11:30 am","1.12 JOD","0.00 JOD","0.00 JOD","1.15 JOD","Pick Up",COD,Cancelled,1.15,0,0
+186898,"Nidal Al Kalha 🇯🇴","مهند نقرش",797642724,mohanadnqersh@gmail.com,"26 Jan 2026 11:26 am","0.98 JOD","0.00 JOD","0.00 JOD","1.01 JOD","Pick Up",COD,Delivered,1.01,0,0
+186897,"Komat Qash Bakery 🇯🇴",Jenan,797632145,Jenansroor6@gmail.com,"26 Jan 2026 11:17 am","9.00 JOD","0.00 JOD","3.87 JOD","14.55 JOD",Delivery,APPLE_PAY,Delivered,13.85345,0.223675,0.69655
+186896,"Nidal Al Kalha 🇯🇴",Nadeem,792549566,nadeemdl2009@gmail.com,"26 Jan 2026 11:16 am","6.75 JOD","0.00 JOD","1.60 JOD","8.53 JOD",Delivery,COD,Delivered,8.53,0,0
+186895,"Bagel O's 🇯🇴",Maha,796759206,mahaaz91@gmail.com,"26 Jan 2026 11:16 am","11.70 JOD","2.34 JOD","2.60 JOD","12.28 JOD",Delivery,APPLE_PAY,Delivered,11.259,0.20438,1.021
+186894,"The Dottir 🇯🇴",HANA,795091950,hana_halaseh@hotmail.com,"26 Jan 2026 11:11 am","25.00 JOD","0.00 JOD","3.00 JOD","28.00 JOD",Delivery,COD,Delivered,28,0,0
+186893,"Nidal Al Kalha 🇯🇴",Adnan,788171765,Adnanaimat@gmail.com,"26 Jan 2026 11:08 am","11.81 JOD","0.00 JOD","1.60 JOD","13.73 JOD",Delivery,COD,Delivered,13.73,0,0
+186892,"Bagel O's 🇯🇴",Hasan,790197799,hassan.khatatbeh03@gmail.com,"26 Jan 2026 11:04 am","17.30 JOD","3.46 JOD","0.00 JOD","14.31 JOD","Pick Up",APPLE_PAY,Delivered,13.13675,0.221635,1.17325
+186891,"Cafe Barbera 🇯🇴",Leen,795760713,alrajabieleen@gmail.com,"26 Jan 2026 11:02 am","2.63 JOD","0.00 JOD","2.81 JOD","5.51 JOD",Delivery,COD,Delivered,5.51,0,0
+186890,"OPI Orders","Bashar Hamdan",790848740,basharhamdan2021@gmail.com,"26 Jan 2026 10:55 am","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,"Order Accepted",0,0,0
+186889,"Nidal Al Kalha 🇯🇴",Mohanad,791693830,Nashat.alimat@yahoo.com,"26 Jan 2026 10:36 am","4.56 JOD","0.00 JOD","1.26 JOD","5.94 JOD",Delivery,COD,Delivered,5.94,0,0
+186888,"Eggcited 🇯🇴",Mohammad,797777662,mohammadjabet86@gmail.com,"26 Jan 2026 10:36 am","7.65 JOD","1.53 JOD","1.98 JOD","8.31 JOD",Delivery,MEPS,Delivered,7.86929,0.170635,0.44071
+186887,"Nidal Al Kalha 🇯🇴",Soha,780164787,Sohasrawi@icloud.com,"26 Jan 2026 10:32 am","1.80 JOD","0.00 JOD","0.00 JOD","1.85 JOD","Pick Up",COD,Delivered,1.85,0,0
+186886,"The Dottir 🇯🇴","Raya Al Lozi",797474400,rayaallozi@hotmail.com,"26 Jan 2026 10:20 am","24.00 JOD","0.00 JOD","3.00 JOD","27.00 JOD",Delivery,COD,"Order Accepted",27,0,0
+186885,"Flour & Fire 🇯🇴","leen Alkuttob",770108542,leenalkotob@gmail.com,"26 Jan 2026 9:57 am","12.00 JOD","0.00 JOD","2.18 JOD","14.50 JOD",Delivery,COD,Delivered,14.5,0,0
+186884,"Nidal Al Kalha 🇯🇴",Thuraya,798182187,Lulu.ghanem95@gmail.com,"26 Jan 2026 9:46 am","2.67 JOD","0.00 JOD","0.00 JOD","2.74 JOD","Pick Up",COD,Delivered,2.74,0,0
+186883,"Bagel O's 🇯🇴",Melissa,791593431,thehooptie@gmail.com,"26 Jan 2026 9:44 am","12.70 JOD","2.54 JOD","0.00 JOD","10.50 JOD","Pick Up",COD,Delivered,10.5,0,0
+186882,"Nidal Al Kalha 🇯🇴",Sleman,785813456,slemanalkshan@gmail.com,"26 Jan 2026 9:37 am","3.38 JOD","0.00 JOD","0.00 JOD","3.47 JOD","Pick Up",COD,Delivered,3.47,0,0
+186881,"Nidal Al Kalha 🇯🇴",سليمان,781034845,Slimanalharthe@gmail.com,"26 Jan 2026 9:35 am","1.24 JOD","0.00 JOD","0.00 JOD","1.27 JOD","Pick Up",COD,Delivered,1.27,0,0
+186880,"The Dottir 🇯🇴",Hala,796087000,halabaqain79@gmail.com,"26 Jan 2026 9:24 am","47.00 JOD","0.00 JOD","3.00 JOD","50.00 JOD",Delivery,COD,"Order Accepted",50,0,0
+186879,"Nidal Al Kalha 🇯🇴",Abdulhadi,789985423,Zackpanthee@gmail.com,"26 Jan 2026 9:20 am","1.24 JOD","0.00 JOD","0.00 JOD","1.27 JOD","Pick Up",COD,Delivered,1.27,0,0
+186878,"Nidal Al Kalha 🇯🇴","ام ياسر",782669836,khazalehnoor40@gmail.com,"26 Jan 2026 9:16 am","1.09 JOD","0.00 JOD","0.00 JOD","1.12 JOD","Pick Up",COD,Delivered,1.12,0,0
+186877,"Nommers  🇯🇴",Mohammad,798189754,mwskhatib03@gmail.com,"26 Jan 2026 8:55 am","12.00 JOD","2.40 JOD","3.73 JOD","13.65 JOD",Delivery,APPLE_PAY,Delivered,13.004,0.216025,0.646
+186876,"The Whisk  🇯🇴",Ahmadkh,780994620,Kha298201@gmail.com,"26 Jan 2026 8:44 am","13.00 JOD","2.60 JOD","4.21 JOD","14.96 JOD",Delivery,COD,Delivered,14.96,0,0
+186875,"Shawerma 3a Saj 🇯🇴",Talal,598666444,talalateeq@gmail.com,"26 Jan 2026 2:10 am","14.26 JOD","0.00 JOD","0.00 JOD","17.97 JOD",Delivery,APPLE_PAY,Delivered,16.70195,0.252745,1.26805
+186874,"Yazan Shawerma 🇯🇴",Abed.almasharqah,789059126,Abed.almasharqah11@gmail.com,"25 Jan 2026 11:38 pm","7.25 JOD","0.00 JOD","1.00 JOD","8.45 JOD",Delivery,COD,Delivered,8.45,0,0
+186873,"Hash Burger 🇯🇴",Abdulrahman,798431069,abdulrahmanhusam800@gmail.com,"25 Jan 2026 11:22 pm","6.25 JOD","0.63 JOD","0.00 JOD","5.79 JOD","Pick Up",APPLE_PAY,Delivered,5.4584,0.149215,0.3316
+186872,"Kababji 🇯🇴","Issam Shnoudeh",795800698,Issamshnoudeh@gmail.com,"25 Jan 2026 10:40 pm","13.70 JOD","1.37 JOD","2.43 JOD","15.75 JOD",Delivery,HYPERPAY,Delivered,15.75,0,0
+186871,"Bash Burger 🇯🇴",Tabarak,792864376,tabarakab3@gmail.com,"25 Jan 2026 10:38 pm","20.59 JOD","4.12 JOD","4.00 JOD","23.67 JOD",Delivery,APPLE_PAY,Delivered,22.6232,0.301195,1.0468
+186870,"Hash Burger 🇯🇴",Mohammed,776003446,mohghq@gmail.com,"25 Jan 2026 10:30 pm","24.35 JOD","2.44 JOD","0.00 JOD","22.57 JOD","Pick Up",APPLE_PAY,Delivered,21.5672,0.291845,1.0028
+186869,"Tandoori Oven 🇯🇴","OSAMA SABBAH",790005670,omaksabbah@gmail.com,"25 Jan 2026 10:08 pm","27.64 JOD","0.00 JOD","5.98 JOD","35.98 JOD",Delivery,COD,Delivered,31.1227,0,4.8573
+186868,"Sugaraholic 🇯🇴","لين ابوغلوس",790550324,leent5249@gmail.com,"25 Jan 2026 10:08 pm","13.00 JOD","0.00 JOD","4.71 JOD","18.06 JOD",Delivery,COD,Delivered,18.06,0,0
+186867,"Kababji 🇯🇴",seema,796116633,azzounisima@gmail.com,"25 Jan 2026 10:06 pm","26.70 JOD","0.00 JOD","3.64 JOD","32.48 JOD",Delivery,COD,Delivered,32.48,0,0
+186866,"Hash Burger 🇯🇴","Reem kisswani",793287770,kisswanireem70@gmail.com,"25 Jan 2026 10:03 pm","5.90 JOD","0.59 JOD","0.00 JOD","5.47 JOD","Pick Up",COD,Delivered,5.47,0,0
+186865,"Yazan Shawerma 🇯🇴",sameer,799739448,jstmsm@gmail.com,"25 Jan 2026 9:56 pm","2.70 JOD","0.00 JOD","0.00 JOD","2.70 JOD","Pick Up",COD,Delivered,2.7,0,0
+186864,"Everybuddy Nutrition Supplements 🇯🇴","Leen rawabdeh",791615010,leenrawabdeh39@gmail.com,"25 Jan 2026 9:50 pm","20.30 JOD","0.00 JOD","3.00 JOD","23.85 JOD",Delivery,COD,Delivered,23.85,0,0
+186863,"Sumac Co. 🇯🇴",Eman,792112600,emanwf2006@gmail.con,"25 Jan 2026 9:47 pm","6.00 JOD","1.20 JOD","2.00 JOD","6.96 JOD",Delivery,APPLE_PAY,Delivered,6.56768,0.15916,0.39232
+186862,"THE FIT BAR™",Afnan,798221484,afnaneid220@gmail.com,"25 Jan 2026 9:39 pm","6.95 JOD","0.00 JOD","4.26 JOD","11.40 JOD",Delivery,APPLE_PAY,Delivered,10.787,0.1969,0.613
+186861,"Ocho Kave Matcha 🇯🇴",Dalia,792849889,daliaaltineh@gmail.com,"25 Jan 2026 9:38 pm","9.88 JOD","0.00 JOD","0.00 JOD","9.88 JOD","Pick Up",APPLE_PAY,Delivered,9.34528,0.18398,0.53472
+186860,"Yazan Shawerma 🇯🇴","Saja elharony",786121885,Sagaelharouny@gmail.com,"25 Jan 2026 9:29 pm","12.40 JOD","0.00 JOD","0.00 JOD","12.40 JOD","Pick Up",COD,Delivered,12.4,0,0
+186859,"Hashi Sushi 🇯🇴","Hala barham",780784740,barham.7ala@gmail.com,"25 Jan 2026 9:19 pm","30.60 JOD","6.12 JOD","3.00 JOD","27.20 JOD",Delivery,APPLE_PAY,Delivered,24.652,0.3312,2.548
+186857,"Sakura Sushi 🇯🇴",Jon,799836818,jondkhoury@gmail.com,"25 Jan 2026 9:09 pm","36.40 JOD","3.00 JOD","2.96 JOD","37.34 JOD",Delivery,MEPS,Delivered,35.5597,0.41739,1.7803
+186856,"Bibim 🇰🇷",Hashem,775880007,hashem.alshariff@outlook.com,"25 Jan 2026 9:08 pm","6.20 JOD","0.00 JOD","0.00 JOD","7.36 JOD","Pick Up",APPLE_PAY,Delivered,6.95088,0.16256,0.40912
+186855,"Hash Burger 🇯🇴",Ali,799711922,Abudiabz@gmail.com,"25 Jan 2026 9:07 pm","4.50 JOD","0.45 JOD","3.00 JOD","7.17 JOD",Delivery,MEPS,Delivered,6.7832,0.160945,0.3868
+186854,"Nidal Al Kalha 🇯🇴",Ahmad,782035302,Ahmed.Omar.Heiba@gmail.com,"25 Jan 2026 9:04 pm","2.06 JOD","0.00 JOD","0.00 JOD","2.12 JOD","Pick Up",COD,Delivered,2.12,0,0
+186853,"Nidal Al Kalha 🇯🇴","Omran alkwaldeh",772408265,Omranbh9910@gmail.com,"25 Jan 2026 9:03 pm","1.35 JOD","0.00 JOD","0.00 JOD","1.39 JOD","Pick Up",COD,Delivered,1.39,0,0
+186852,"Komat Qash Bakery 🇯🇴",Dima,788981243,dede94xx@gmail.com,"25 Jan 2026 8:57 pm","9.30 JOD","0.00 JOD","4.30 JOD","15.34 JOD",Delivery,COD,Delivered,15.34,0,0
+186851,"Pizza SQRD 🇯🇴","Hana Kawalit",795414497,hanakawalit@gmail.com,"25 Jan 2026 8:55 pm","23.75 JOD","0.00 JOD","1.92 JOD","26.31 JOD",Delivery,COD,Delivered,26.31,0,0
+186850,"Sushi Crush 🇯🇴",Maria,791302737,mariashaher15@gmail.com,"25 Jan 2026 8:47 pm","22.99 JOD","0.00 JOD","3.99 JOD","27.60 JOD",Delivery,COD,Cancelled,27.6,0,0
+186849,"Yazan Shawerma 🇯🇴",JaberHamza,785379933,hamzajabergo777@gmail.com,"25 Jan 2026 8:35 pm","10.60 JOD","0.00 JOD","0.00 JOD","10.60 JOD","Pick Up",COD,Delivered,10.6,0,0
+186848,"The Dottir 🇯🇴","Reem Tayan",789999079,reemaltayan@gmail.com,"25 Jan 2026 8:34 pm","12.00 JOD","0.00 JOD","3.00 JOD","15.00 JOD",Delivery,COD,Delivered,15,0,0
+186847,"Sakura Sushi 🇯🇴","Lina alshabi",799597387,Lina_alshaabi@yahoo.com,"25 Jan 2026 8:30 pm","15.15 JOD","3.03 JOD","3.67 JOD","16.20 JOD",Delivery,APPLE_PAY,Delivered,15.371,0.2377,0.829
+186846,"Chickasta 🇯🇴","Lamees aladwan",775180969,lameesaladwan05@gmail.com,"25 Jan 2026 8:25 pm","8.70 JOD","1.74 JOD","2.00 JOD","9.19 JOD",Delivery,COD,Delivered,9.19,0,0
+186845,"Sumac Co. 🇯🇴",Mohammad,795545472,mohdiyas12@gmail.com,"25 Jan 2026 8:22 pm","6.00 JOD","1.20 JOD","0.00 JOD","4.96 JOD","Pick Up",COD,Delivered,4.96,0,0
+186844,"Pizza SQRD 🇯🇴",Israa,797901711,Israaalkhuffash@icloud.com,"25 Jan 2026 8:15 pm","29.10 JOD","0.00 JOD","2.89 JOD","35.15 JOD",Delivery,MEPS,Delivered,31.535,0.398775,3.615
+186843,"Nidal Al Kalha 🇯🇴",shaker,798216814,shaabujamous@gmail.com,"25 Jan 2026 8:13 pm","0.76 JOD","0.00 JOD","0.00 JOD","0.78 JOD","Pick Up",COD,Delivered,0.78,0,0
+186842,"Phantom Kitchen 🇯🇴",Luma,798360033,Lumaruwaidan@hotmail.com,"25 Jan 2026 8:12 pm","8.60 JOD","1.72 JOD","2.00 JOD","9.11 JOD",Delivery,APPLE_PAY,Delivered,8.32675,0.177435,0.78325
+186841,"Kababji 🇯🇴","Mohammad Dajani",786699777,mohammaddajani@gmail.com,"25 Jan 2026 8:05 pm","16.25 JOD","0.00 JOD","2.43 JOD","20.39 JOD",Delivery,MEPS,Delivered,18.76075,0.273315,1.62925
+186840,"Pizza SQRD 🇯🇴","Maan Hattab",795627964,hattab73@yahoo.com,"25 Jan 2026 8:03 pm","17.75 JOD","3.00 JOD","0.00 JOD","14.75 JOD","Pick Up",COD,Delivered,14.75,0,0
+186839,"Bibim 🇰🇷","Parween Jarrah",796828360,parween.jarrag@gmail.com,"25 Jan 2026 8:03 pm","18.60 JOD","0.00 JOD","2.29 JOD","24.37 JOD",Delivery,MEPS,Delivered,23.24646,0.307145,1.12354
+186838,"DRP COFFEE 🇯🇴",Heba,789786000,Hibbaalsamakkii@gmail.com,"25 Jan 2026 8:02 pm","8.00 JOD","1.60 JOD","1.88 JOD","8.50 JOD",Delivery,COD,Delivered,8.5,0,0
+186837,"Sushi Crush 🇯🇴","Noor bosheh",795442426,Nnbosheh@hotmail.com,"25 Jan 2026 8:02 pm","20.40 JOD","3.00 JOD","2.06 JOD","20.01 JOD",Delivery,MEPS,Delivered,20.01,0,0
+186836,"Tikka Chicken 🇯🇴",Miran,797033355,Miranmshafei@gmail.com,"25 Jan 2026 8:01 pm","25.20 JOD","0.00 JOD","2.00 JOD","27.88 JOD",Delivery,COD,Delivered,27.88,0,0
+186831,"Ocho Kave Matcha 🇯🇴",Joelle,0797277028,joelleooswiess4@gmail.com,"25 Jan 2026 7:58 pm","18.96 JOD","1.90 JOD","0.00 JOD","17.06 JOD","Pick Up",COD,Delivered,17.06,0,0
+186830,"Nidal Al Kalha 🇯🇴",حمزه,782353112,hamzaalaraj55@gmail.com,"25 Jan 2026 7:50 pm","4.24 JOD","0.00 JOD","0.00 JOD","4.35 JOD","Pick Up",COD,Delivered,4.35,0,0
+186829,"Shawerma 3a Saj 🇯🇴","Ahmad Alnaimi",777738020,A.naimi90@outlook.com,"25 Jan 2026 7:45 pm","6.41 JOD","5.00 JOD","2.20 JOD","3.21 JOD",Delivery,COD,Delivered,3.00135,0,0.20865
+186828,"Nommers  🇯🇴",Fatima,797299494,Fatimajamalfofo07@gmail.com,"25 Jan 2026 7:37 pm","20.00 JOD","4.00 JOD","2.99 JOD","19.49 JOD",Delivery,COD,Delivered,17.7359,0,1.7541
+186827,"The Cakery","Rand Kanaan",797714342,rand.kanaan@hotmail.com,"25 Jan 2026 7:34 pm","33.00 JOD","0.00 JOD","4.00 JOD","37.00 JOD",Delivery,COD,Delivered,37,0,0
+186826,"Hash Burger 🇯🇴","Yaqin Altabini",780380026,yaqinraed39@gmail.com,"25 Jan 2026 7:27 pm","9.30 JOD","0.93 JOD","2.00 JOD","10.62 JOD",Delivery,APPLE_PAY,Delivered,10.0952,0.19027,0.5248
+186825,"Sakura Sushi 🇯🇴",Husni,795633385,Husnikhalil@gmail.com,"25 Jan 2026 7:21 pm","35.80 JOD","0.00 JOD","0.00 JOD","37.23 JOD","Pick Up",MEPS,Delivered,33.7793,0.416455,3.4507
+186824,"Nidal Al Kalha 🇯🇴","Karam Eyad",770342005,karameeyad@gmail.com,"25 Jan 2026 7:10 pm","2.44 JOD","0.00 JOD","0.00 JOD","2.51 JOD","Pick Up",COD,Delivered,2.51,0,0
+186823,"Hash Burger 🇯🇴",Daniaosama,791999539,Daniaosama14@icloud.com,"25 Jan 2026 7:06 pm","20.45 JOD","2.05 JOD","2.00 JOD","20.95 JOD",Delivery,COD,Delivered,20.95,0,0
+186822,"Tandoori Oven 🇯🇴",Sanad,793888170,Karam.kilani@gmail.com,"25 Jan 2026 7:05 pm","11.56 JOD","0.00 JOD","0.00 JOD","12.79 JOD","Pick Up",COD,Delivered,12.79,0,0
+186821,"Sugaraholic 🇯🇴",Rama,799384451,rama.rawwash@gmail.com,"25 Jan 2026 6:56 pm","12.50 JOD","0.00 JOD","1.37 JOD","14.21 JOD",Delivery,APPLE_PAY,Delivered,13.6837,0.220785,0.5263
+186820,"Crab and More 🇯🇴","DR. janna salaman",790543855,plastysurgicalart@yahoo.com,"25 Jan 2026 6:53 pm","9.50 JOD","0.00 JOD","1.85 JOD","11.35 JOD",Delivery,COD,Delivered,11.35,0,0
+186819,"Yazan Shawerma 🇯🇴",عون,786722626,oouunn2468@gmail.com,"25 Jan 2026 6:51 pm","11.60 JOD","0.00 JOD","3.00 JOD","14.91 JOD",Delivery,MEPS,Delivered,14.19869,0.226735,0.71131
+186817,"Bibim 🇰🇷","Manar Ghanma",795357268,ghanmamanar@gmail.com,"25 Jan 2026 6:47 pm","27.90 JOD","0.00 JOD","2.29 JOD","35.40 JOD",Delivery,APPLE_PAY,Delivered,33.8132,0.4009,1.5868
+186816,"Pizza Nina 🇯🇴","Ahmad Mayyaleh",778962731,Ahmad079254480@gmail.com,"25 Jan 2026 6:40 pm","14.00 JOD","0.00 JOD","0.00 JOD","14.38 JOD","Pick Up",COD,Delivered,14.38,0,0
+186815,"Don Poio 🇯🇴","Sadeel Majed",790404225,s12114719@stu.najah.edu,"25 Jan 2026 6:37 pm","11.00 JOD","0.00 JOD","0.00 JOD","11.44 JOD",Delivery,MEPS,Delivered,9.9672,0.19724,1.4728
+186814,"Sushi Crush 🇯🇴","Zein zarour",798877880,z.zarour@hotmail.com,"25 Jan 2026 6:37 pm","25.69 JOD","0.00 JOD","2.65 JOD","29.03 JOD",Delivery,MEPS,Delivered,29.03,0,0
+186813,"The Dottir 🇯🇴","Jena Awad",792319988,jenawadd@gmail.com,"25 Jan 2026 6:32 pm","50.00 JOD","0.00 JOD","3.00 JOD","53.00 JOD",Delivery,COD,Delivered,53,0,0
+186812,"The Cake Baker 🇯🇴","Hiba Saleh",799981992,saleh.hiba92@hotmail.com,"25 Jan 2026 6:27 pm","21.00 JOD","0.00 JOD","4.87 JOD","25.87 JOD",Delivery,COD,Delivered,25.87,0,0
+186811,"Korean Bistro Manna 🇰🇷","Zarina Tosheva",792905683,zaratosheva@yandex.com,"25 Jan 2026 6:26 pm","11.26 JOD","0.00 JOD","1.60 JOD","13.16 JOD",Delivery,COD,Delivered,13.16,0,0
+186810,Foodz,Maria,798286629,MariaSamandar@gmail.com,"25 Jan 2026 6:23 pm","64.00 JOD","0.00 JOD","0.00 JOD","64.00 JOD",Delivery,MEPS,"Out for Delivery",61.02,0.644,2.98
+186809,"Yazan Shawerma 🇯🇴",RANDA,797966076,RANDAALYOUSEF0@YAHOO.com,"25 Jan 2026 6:17 pm","5.00 JOD","0.00 JOD","0.00 JOD","5.00 JOD","Pick Up",COD,Delivered,5,0,0
+186808,"The Cake Baker 🇯🇴","Ayham Hamdan",799318251,ayhamhamdan645@gmail.com,"25 Jan 2026 6:14 pm","20.00 JOD","0.00 JOD","3.50 JOD","23.50 JOD",Delivery,COD,Delivered,23.5,0,0
+186807,"Sushi Crush 🇯🇴",Huda,790905876,hZ3WT1731169431@bitesnbags.com,"25 Jan 2026 6:14 pm","70.94 JOD","10.00 JOD","0.00 JOD","61.93 JOD","Pick Up",MEPS,Delivered,61.93,0,0
+186806,"Don Poio 🇯🇴","Layth Fanek",779393842,laythfanek10@gmail.com,"25 Jan 2026 6:07 pm","15.00 JOD","0.00 JOD","3.00 JOD","18.00 JOD",Delivery,MEPS,Delivered,17.144,0.253,0.856
+186804,"The Cakery","Mohammad Aburass",789510140,roaa72aburass@gmail.com,"25 Jan 2026 6:03 pm","18.00 JOD","0.00 JOD","0.00 JOD","18.00 JOD","Pick Up",COD,"Order Accepted",18,0,0
+186803,"Ray's Fried Chicken 🇯🇴","Abdullah Alkhateeb",782101209,dlooly989@gmail.com,"25 Jan 2026 5:59 pm","14.85 JOD","2.97 JOD","0.00 JOD","14.18 JOD","Pick Up",APPLE_PAY,Delivered,13.1583,0.22053,1.0217
+186802,"Nidal Al Kalha 🇯🇴","نزير ابو خجيل",797143653,nazierwaamal@gmail.com,"25 Jan 2026 5:54 pm","3.53 JOD","0.00 JOD","1.60 JOD","5.23 JOD",Delivery,COD,Delivered,5.23,0,0
+186801,"Nidal Al Kalha 🇯🇴",yamen,788613433,yamenboos1@gmail.com,"25 Jan 2026 5:53 pm","0.75 JOD","0.00 JOD","0.00 JOD","0.77 JOD","Pick Up",COD,Delivered,0.77,0,0
+186800,"Sushi Crush 🇯🇴",Duaa,799730990,doa_jaradat@yahoo.com,"25 Jan 2026 5:48 pm","14.60 JOD","0.00 JOD","0.00 JOD","14.99 JOD","Pick Up",COD,Delivered,14.99,0,0
+186799,"Nommers  🇯🇴","layan alayan",797661307,layanadeeb1996@gmail.com,"25 Jan 2026 5:43 pm","12.00 JOD","2.40 JOD","1.96 JOD","11.88 JOD",Delivery,MEPS,Delivered,11.3048,0.20098,0.5752
+186798,"Sushi Crazy 🇯🇴","Amira Akel",790010818,Akelamira@gmail.com,"25 Jan 2026 5:40 pm","36.75 JOD","5.51 JOD","2.50 JOD","34.73 JOD",Delivery,APPLE_PAY,Delivered,33.17134,0.395205,1.55866
+186797,"Yazan Shawerma 🇯🇴",يزيد,790901610,shalabieheyazeed@gmail.com,"25 Jan 2026 5:38 pm","2.55 JOD","0.00 JOD","0.00 JOD","2.55 JOD","Pick Up",COD,Delivered,2.55,0,0
+186796,"The Whisk  🇯🇴",Azeez,796391925,Azeez.khalil@gmail.com,"25 Jan 2026 5:37 pm","13.00 JOD","2.60 JOD","4.93 JOD","15.68 JOD",Delivery,COD,Delivered,15.68,0,0
+186795,"Sumac Co. 🇯🇴",Faisal,790317030,faisal69973@gmail.com,"25 Jan 2026 5:32 pm","14.00 JOD","2.80 JOD","1.00 JOD","12.58 JOD",Delivery,APPLE_PAY,Delivered,11.95164,0.20693,0.62836
+186794,"Yazan Shawerma 🇯🇴","محمد بلاسمة",798005923,mohammadziad2004balasmeh@gmail.com,"25 Jan 2026 5:19 pm","2.90 JOD","0.00 JOD","0.00 JOD","2.90 JOD","Pick Up",COD,Delivered,2.9,0,0
+186793,"Yazan Shawerma 🇯🇴","اسماعيل ابو غربية",796396131,dmnag2010@hotmail.com,"25 Jan 2026 5:18 pm","5.80 JOD","0.00 JOD","1.00 JOD","6.96 JOD",Delivery,COD,Delivered,6.96,0,0
+186792,"The Cake Baker 🇯🇴","Dana Al Azab",799984718,danaalazab@yahoo.com,"25 Jan 2026 5:16 pm","25.00 JOD","0.00 JOD","2.22 JOD","27.78 JOD",Delivery,COD,Delivered,23.613,0,4.167
+186791,"The Cakery","Dana AbuTouq",795661547,dana.abutouq@gmail.com,"25 Jan 2026 5:14 pm","17.00 JOD","0.00 JOD","0.00 JOD","17.00 JOD","Pick Up",COD,Delivered,17,0,0
+186790,"Yazan Shawerma 🇯🇴","سميرة خالد عزت عرباسي",790870548,arabasi.samira@gmail.com,"25 Jan 2026 5:12 pm","11.00 JOD","0.00 JOD","1.00 JOD","12.30 JOD",Delivery,COD,Delivered,12.3,0,0
+186789,"Bibim 🇰🇷","Jana Idris",796153188,janaidris666@outlook.com,"25 Jan 2026 5:12 pm","10.00 JOD","0.00 JOD","2.95 JOD","14.82 JOD",Delivery,COD,Delivered,14.82,0,0
+186788,"Yazan Shawerma 🇯🇴","لطيفه جبالي",792575952,latefhaljbale@gmail.com,"25 Jan 2026 5:08 pm","5.60 JOD","0.00 JOD","4.00 JOD","9.75 JOD",Delivery,COD,Delivered,9.75,0,0
+186787,"Pizza Nina 🇯🇴",Abdulkareem,786236912,albuhabdulkarim2007@gmail.com,"25 Jan 2026 5:00 pm","30.50 JOD","0.00 JOD","1.50 JOD","33.22 JOD",Delivery,APPLE_PAY,Delivered,30.1302,0.38237,3.0898
+186784,"Yazan Shawerma 🇯🇴",ربيع,797004709,mr.rabee3@hotmail.com,"25 Jan 2026 4:56 pm","5.70 JOD","0.00 JOD","0.00 JOD","5.70 JOD","Pick Up",COD,Delivered,5.7,0,0
+186783,"The Whisk  🇯🇴",Mais,797700872,mais.alkazali@yahoo.com,"25 Jan 2026 4:56 pm","13.00 JOD","2.60 JOD","2.89 JOD","13.64 JOD",Delivery,COD,Delivered,13.64,0,0
+186782,"TJ Burger 🇯🇴",Merna,778065616,Mernahattar97@gmail.com,"25 Jan 2026 4:53 pm","7.25 JOD","1.81 JOD","0.00 JOD","6.51 JOD",Delivery,APPLE_PAY,Delivered,6.13658,0.155335,0.37342
+186781,"Crab and More 🇯🇴","Mousa Abuhassan",798333800,mousa.abuhassan@icloud,"25 Jan 2026 4:50 pm","20.50 JOD","0.00 JOD","2.80 JOD","23.30 JOD",Delivery,APPLE_PAY,Delivered,22.8505,0.29805,0.4495
+186780,"Everybuddy Nutrition Supplements 🇯🇴",Raed,795894030,raedalzabat@gmail.com,"25 Jan 2026 4:48 pm","26.00 JOD","0.00 JOD","3.00 JOD","29.70 JOD",Delivery,COD,Delivered,29.7,0,0
+186779,"Ray's Fried Chicken 🇯🇴",Hiba,782307675,Hebaaemad1@gmail.com,"25 Jan 2026 4:40 pm","24.10 JOD","4.82 JOD","3.50 JOD","26.51 JOD",Delivery,COD,Delivered,26.51,0,0
+186778,"The Dottir 🇯🇴",Yara,795422422,Arwanyara@gmail.com,"25 Jan 2026 4:34 pm","35.50 JOD","0.00 JOD","3.00 JOD","38.50 JOD",Delivery,COD,Delivered,38.5,0,0
+186777,"Bibim 🇰🇷",Jonas,799583888,jonasfifue@gmx.de,"25 Jan 2026 4:31 pm","20.10 JOD","0.00 JOD","2.85 JOD","26.71 JOD",Delivery,APPLE_PAY,Delivered,25.48818,0.327035,1.22182
+186776,"Sofia Turkish Restaurant 🇯🇴","Najwa Almazini",797777129,najwa.almazini91@gmail.com,"25 Jan 2026 4:27 pm","12.95 JOD","0.00 JOD","0.00 JOD","14.34 JOD",Delivery,APPLE_PAY,Delivered,13.65206,0.22189,0.68794
+186775,"Yazan Shawerma 🇯🇴",Haneeb,791437381,haneen.elthwabeyeh@gmail.com,"25 Jan 2026 4:26 pm","5.20 JOD","0.00 JOD","0.00 JOD","5.20 JOD","Pick Up",COD,Delivered,5.2,0,0
+186774,"Kababji 🇯🇴","Julian Lutfi",799715841,julian.lutfi@gmail.com,"25 Jan 2026 4:20 pm","15.90 JOD","0.00 JOD","0.00 JOD","17.17 JOD","Pick Up",HYPERPAY,Delivered,17.17,0,0
+186773,"Ocho Kave Matcha 🇯🇴",Sara,508088266,sara1997_12@hotmail.com,"25 Jan 2026 4:19 pm","4.74 JOD","0.00 JOD","4.54 JOD","9.41 JOD",Delivery,APPLE_PAY,Delivered,8.89596,0.179985,0.51404
+186772,"Yazan Shawerma 🇯🇴","Heba Alabadi",780132746,hebaalabadi38@gmail.com,"25 Jan 2026 4:18 pm","5.20 JOD","0.00 JOD","0.00 JOD","5.20 JOD","Pick Up",COD,Delivered,5.2,0,0
+186771,"THE FIT BAR™",Ahmad,799066484,Ahmed.abutawileh@gmail.com,"25 Jan 2026 4:14 pm","19.45 JOD","3.89 JOD","2.25 JOD","18.34 JOD",Delivery,APPLE_PAY,Delivered,17.4147,0.25589,0.9253
+186770,"The Cakery",Raw3a,797010202,Raw3a.hajarat.rhh@gmail.com,"25 Jan 2026 4:14 pm","26.00 JOD","0.00 JOD","3.00 JOD","29.00 JOD",Delivery,COD,Delivered,29,0,0
+186769,"Kababji 🇯🇴",Nas,780726447,naseqasem@icloud.com,"25 Jan 2026 4:09 pm","0.70 JOD","0.07 JOD","0.00 JOD","0.68 JOD","Pick Up",HYPERPAY,Delivered,0.68,0,0
+186768,"Kababji 🇯🇴",Nas,780726447,naseqasem@icloud.com,"25 Jan 2026 4:07 pm","0.70 JOD","0.00 JOD","0.00 JOD","0.76 JOD","Pick Up",COD,Cancelled,0.76,0,0
+186766,"Korean Bistro Manna 🇰🇷","ضاري الانصاري",798378223,dalansari9@gmail.com,"25 Jan 2026 3:58 pm","18.96 JOD","0.00 JOD","3.14 JOD","22.61 JOD",Delivery,APPLE_PAY,Delivered,21.6056,0.292185,1.0044
+186765,"Yazan Shawerma 🇯🇴",Nadeen,798141080,Nadeen.nat2000@icloud.com,"25 Jan 2026 3:52 pm","4.60 JOD","0.00 JOD","0.00 JOD","4.60 JOD","Pick Up",APPLE_PAY,Delivered,4.3114,0.1391,0.2886
+186764,"Teta Raheebeh 🇯🇴","Mohammad Dajani",786699777,mohammaddajani@gmail.com,"25 Jan 2026 3:49 pm","3.56 JOD","0.00 JOD","2.03 JOD","5.32 JOD",Delivery,MEPS,Delivered,4.3156,0.14522,1.0044
+186763,"The Cake Baker 🇯🇴","Jaafar Hawamdeh",0798708768,Jaafar.Hawamdeh@hotmail.com,"25 Jan 2026 3:47 pm","21.00 JOD","0.00 JOD","0.00 JOD","21.84 JOD","Pick Up",COD,Delivered,18.564,0,3.276
+186762,"DRP COFFEE 🇯🇴","Zaina badran",790152369,Zainamb2199@gmail.com,"25 Jan 2026 3:47 pm","13.50 JOD","2.70 JOD","2.56 JOD","13.39 JOD",Delivery,COD,Delivered,12.1849,0,1.2051
+186761,"Ocho Kave Matcha 🇯🇴",Hadeel,795768006,hadeelhh@hotmail.com,"25 Jan 2026 3:41 pm","13.32 JOD","0.00 JOD","2.17 JOD","15.85 JOD",Delivery,COD,Delivered,15.85,0,0
+186760,"Yazan Shawerma 🇯🇴","Gazy Sandoqa",776175457,gazykalilsandoqa120@gmail.com,"25 Jan 2026 3:37 pm","6.70 JOD","0.00 JOD","0.00 JOD","6.70 JOD","Pick Up",COD,Delivered,6.7,0,0
+186759,"Tikka Chicken 🇯🇴","Mahmoud Esaid",797383300,m7moud.as3ad@yahoo.com,"25 Jan 2026 3:16 pm","5.99 JOD","0.00 JOD","0.00 JOD","6.15 JOD","Pick Up",COD,Delivered,6.15,0,0
+186758,"Komat Qash Bakery 🇯🇴","Haya Saif",791849064,hayaemadsaif@hotmail.com,"25 Jan 2026 3:15 pm","6.15 JOD","0.00 JOD","3.94 JOD","11.24 JOD",Delivery,COD,Delivered,11.24,0,0
+186757,"Ocho Kave Matcha 🇯🇴",Joud,793691113,jouddbtn@outlook.com,"25 Jan 2026 3:15 pm","18.26 JOD","0.00 JOD","2.72 JOD","21.47 JOD",Delivery,COD,Delivered,21.47,0,0
+186756,"The Cakery","Jana abdallah",791153569,J_shorman@yahoo.com,"25 Jan 2026 3:08 pm","17.00 JOD","0.00 JOD","5.00 JOD","22.00 JOD",Delivery,COD,Delivered,22,0,0
+186755,"Tikka Chicken 🇯🇴",Yaser,796920231,yasser.danon@gmail.com,"25 Jan 2026 3:03 pm","7.02 JOD","0.00 JOD","0.00 JOD","7.21 JOD","Pick Up",COD,Delivered,7.21,0,0
+186754,"THE FIT BAR™","Malak AlSalman",796886269,Alsalmanmalak@outlook.com,"25 Jan 2026 3:03 pm","8.45 JOD","1.69 JOD","2.81 JOD","9.80 JOD",Delivery,MEPS,Delivered,9.259,0.1833,0.541
+186752,"The Cake Baker 🇯🇴","Farah zawaideh",779524526,farahzawaideh@gmail.com,"25 Jan 2026 2:57 pm","11.20 JOD","0.00 JOD","2.35 JOD","13.55 JOD",Delivery,COD,Delivered,13.55,0,0
+186751,"Sushi Crush 🇯🇴",Yana,790723077,yana.fedina@hotmail.com,"25 Jan 2026 2:55 pm","19.75 JOD","0.00 JOD","0.00 JOD","20.28 JOD","Pick Up",COD,Delivered,20.28,0,0
+186750,"Nommers  🇯🇴","Shereen Khalaf",777996996,shereenkhalaff@gmail.com,"25 Jan 2026 2:54 pm","20.00 JOD","0.00 JOD","2.57 JOD","23.11 JOD",Delivery,MEPS,Delivered,22.0856,0.296435,1.0244
+186749,"Pizza Nina 🇯🇴",Ala,791736875,Alasaifan84@gmail.com,"25 Jan 2026 2:54 pm","26.00 JOD","5.20 JOD","0.00 JOD","21.39 JOD",Delivery,COD,Delivered,21.39,0,0
+186746,"Azul Pastry 🇯🇴",Maisa,793555145,wisamaisa@yahoo.com,"25 Jan 2026 2:46 pm","26.00 JOD","5.20 JOD","5.00 JOD","26.50 JOD",Delivery,MEPS,Delivered,25.34,0.32525,1.16
+186745,"Nitzel Box 🇯🇴",Nada,782530011,Nada@tipntag.com,"25 Jan 2026 2:43 pm","7.14 JOD","0.00 JOD","0.00 JOD","8.57 JOD",Delivery,MEPS,Delivered,7.6987,0.172845,0.8713
+186744,"TJ Burger 🇯🇴","George Osama",772264022,Ghishangeorge9292@gmail.com,"25 Jan 2026 2:42 pm","25.70 JOD","6.43 JOD","0.00 JOD","23.04 JOD",Delivery,APPLE_PAY,Delivered,21.97232,0.29584,1.06768
+186743,"Phantom Kitchen 🇯🇴","Mohsen obeidat",790709923,Mohsenobeidat@icloud.com,"25 Jan 2026 2:39 pm","12.25 JOD","0.00 JOD","1.00 JOD","13.58 JOD",Delivery,APPLE_PAY,Delivered,12.4615,0.21543,1.1185
+186741,"Nidal Al Kalha 🇯🇴",Hamza,790411067,Takalavv@akakka.com,"25 Jan 2026 2:34 pm","2.93 JOD","0.00 JOD","0.00 JOD","3.01 JOD","Pick Up",COD,Delivered,3.01,0,0
+186740,"OPI Orders","Ahmad Alashqar",795790015,ahmdalashqar@gmail.com,"25 Jan 2026 2:33 pm","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,Delivered,0,0,0
+186738,"Wingman 🇯🇴","Lojain Tarawneh",790920077,lojain.tarawneh07@gmail.com,"25 Jan 2026 2:28 pm","1.00 JOD","0.25 JOD","0.00 JOD","0.78 JOD","Pick Up",COD,Delivered,0.78,0,0
+186736,"Nidal Al Kalha 🇯🇴","عبد الناصر",775126713,nsmyr90@gmail.com,"25 Jan 2026 2:26 pm","3.46 JOD","0.00 JOD","0.00 JOD","3.55 JOD","Pick Up",COD,Delivered,3.55,0,0
+186735,"THE FIT BAR™","Samer sweidan",790844342,mr.sweidan@hotmail.com,"25 Jan 2026 2:19 pm","13.95 JOD","0.00 JOD","2.98 JOD","17.31 JOD",Delivery,MEPS,Delivered,16.43105,0.247135,0.87895
+186734,"Wingman 🇯🇴","هبة عيسى",796933175,heba.nas.issa@gmail.com,"25 Jan 2026 2:16 pm","6.00 JOD","1.50 JOD","0.00 JOD","4.66 JOD","Pick Up",COD,Delivered,4.66,0,0
+186733,"Toby's 🇯🇴","Raya Qatarneh",792228880,raya.alqatarneh@gmail.com,"25 Jan 2026 2:07 pm","10.30 JOD","1.03 JOD","1.65 JOD","11.20 JOD",Delivery,COD,Delivered,11.2,0,0
+186732,"Hash Burger 🇯🇴",Khatma,772419175,alnofulkhatma@gmail.com,"25 Jan 2026 2:06 pm","6.85 JOD","0.69 JOD","2.50 JOD","8.84 JOD",Delivery,COD,Delivered,8.84,0,0
+186731,"Secrets Cakes 🇯🇴","Mohammad damer",779435801,accdamer@gmail.com,"25 Jan 2026 2:03 pm","26.00 JOD","2.60 JOD","0.00 JOD","24.10 JOD","Pick Up",COD,Delivered,24.1,0,0
+186730,"Yazan Shawerma 🇯🇴","Tamer Haroun",796668557,RashaQatanani1987@gmail.com,"25 Jan 2026 2:03 pm","3.95 JOD","0.00 JOD","1.50 JOD","5.56 JOD",Delivery,COD,Delivered,5.56,0,0
+186729,"Nidal Al Kalha 🇯🇴",Ahmad,795088742,brandsterminal0@gmail.com,"25 Jan 2026 1:53 pm","1.96 JOD","0.00 JOD","0.00 JOD","2.01 JOD","Pick Up",COD,Delivered,2.01,0,0
+186728,"Pizza Nina 🇯🇴",heba,796641695,SCQVR1750676294@bitesnbags.com,"25 Jan 2026 1:52 pm","12.00 JOD","2.40 JOD","2.00 JOD","11.92 JOD",Delivery,COD,Delivered,11.92,0,0
+186727,Foodz,"Hadeel Alsarraf",796050773,hd.sarraf@gmail.com,"25 Jan 2026 1:50 pm","16.00 JOD","0.00 JOD","1.00 JOD","17.00 JOD",Delivery,MEPS,"Out for Delivery",16.135,0.2445,0.865
+186726,"Eggcited 🇯🇴","Haya Gharaibeh",775123728,Hays.ahmed3@gmail.com,"25 Jan 2026 1:44 pm","5.60 JOD","0.00 JOD","3.44 JOD","8.06 JOD",Delivery,COD,Delivered,7.3346,0,0.7254
+186725,"Ocho Kave Matcha 🇯🇴",Jude,0799044441,judesallakh@gmail.com,"25 Jan 2026 1:39 pm","4.99 JOD","0.00 JOD","3.62 JOD","10.45 JOD",Delivery,APPLE_PAY,Delivered,9.4095,0.188825,1.0405
+186724,"Nidal Al Kalha 🇯🇴",Abdallah,0795424286,lolipoop90@yahoo.com,"25 Jan 2026 1:39 pm","4.48 JOD","0.00 JOD","0.00 JOD","4.60 JOD","Pick Up",COD,Delivered,4.6,0,0
+186723,"Sumac Co. 🇯🇴","Anas Ghaith",799502002,anas.gaith@gmail.com,"25 Jan 2026 1:34 pm","11.00 JOD","2.20 JOD","2.50 JOD","11.60 JOD",Delivery,APPLE_PAY,Delivered,11.0128,0.1986,0.5872
+186722,"Ocho Kave Matcha 🇯🇴",Noura,796531725,Noura.barakat@outlook.com,"25 Jan 2026 1:33 pm","4.94 JOD","0.00 JOD","1.72 JOD","6.79 JOD",Delivery,APPLE_PAY,Delivered,6.39124,0.157715,0.39876
+186721,"Nidal Al Kalha 🇯🇴","Ahmad AbdelAal",791916474,Hamada200130@gmail.com,"25 Jan 2026 1:33 pm","2.22 JOD","0.00 JOD","0.00 JOD","2.28 JOD","Pick Up",COD,Delivered,2.28,0,0
+186720,"THE FIT BAR™",Tala,791446984,talasamarah96@outlook.com,"25 Jan 2026 1:32 pm","17.05 JOD","0.00 JOD","0.00 JOD","17.51 JOD","Pick Up",MEPS,Delivered,16.62205,0.248835,0.88795
+186719,"Nidal Al Kalha 🇯🇴",Ibrahim,787778929,Ibrahimjoudh58@gmail.com,"25 Jan 2026 1:21 pm","0.90 JOD","0.00 JOD","0.00 JOD","0.92 JOD","Pick Up",COD,Delivered,0.92,0,0
+186718,"Nidal Al Kalha 🇯🇴","Abed Alnaser",777733993,hirzallah.999@gmail.com,"25 Jan 2026 1:19 pm","3.96 JOD","0.00 JOD","0.00 JOD","4.07 JOD","Pick Up",COD,Delivered,4.07,0,0
+186717,"The Cakery",Mikyoung,798483180,rprd79@gmail.com,"25 Jan 2026 1:09 pm","17.00 JOD","0.00 JOD","0.00 JOD","17.00 JOD","Pick Up",COD,Delivered,17,0,0
+186716,"Donuttery 🇯🇴","Husam Alawi",795770920,alawi_hosam@hotmail.com,"25 Jan 2026 1:09 pm","14.50 JOD","0.00 JOD","2.72 JOD","17.61 JOD",Delivery,COD,Delivered,17.61,0,0
+186715,"Sushi Crush 🇯🇴","Jana Darwish",796141223,Janadarwish0987@icloud.com,"25 Jan 2026 1:08 pm","34.99 JOD","0.00 JOD","3.63 JOD","39.56 JOD",Delivery,COD,Delivered,39.56,0,0
+186713,"Nidal Al Kalha 🇯🇴","Mahmoud Nofal",781272701,mahmoudnofal344@gmail.com,"25 Jan 2026 1:07 pm","1.80 JOD","0.00 JOD","0.00 JOD","1.85 JOD","Pick Up",MEPS,Delivered,1.6723,0.115725,0.1777
+186712,"OPI Orders","Ahmad Alashqar",795790015,ahmdalashqar@gmail.com,"25 Jan 2026 1:04 pm","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,Delivered,0,0,0
+186711,"OPI Orders","Yahya Al Sulaihat",777079244,Yahyaalsulaihat@gmail.com,"25 Jan 2026 1:02 pm","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,Delivered,0,0,0
+186710,"Nidal Al Kalha 🇯🇴","Abdullah Aljaafreh",790800411,balastwrt011@gmail.com,"25 Jan 2026 12:58 pm","1.36 JOD","0.00 JOD","0.00 JOD","1.40 JOD","Pick Up",COD,Delivered,1.4,0,0
+186709,"Nommers  🇯🇴","Aman Alhujjeh",790410631,amanalhujjeh@yahoo.com,"25 Jan 2026 12:58 pm","8.50 JOD","0.00 JOD","2.10 JOD","10.83 JOD",Delivery,APPLE_PAY,Delivered,10.2968,0.192055,0.5332
+186708,"Nidal Al Kalha 🇯🇴","احمد الشله",790919697,ahmm90696@gmail.com,"25 Jan 2026 12:57 pm","1.32 JOD","0.00 JOD","0.00 JOD","1.36 JOD","Pick Up",COD,Delivered,1.36,0,0
+186706,"Sumac Co. 🇯🇴",Leen,790258567,leenmibrahim@outlook.com,"25 Jan 2026 12:55 pm","11.75 JOD","2.35 JOD","2.00 JOD","11.72 JOD",Delivery,APPLE_PAY,Delivered,11.12776,0.19962,0.59224
+186705,"Tikka Chicken 🇯🇴","Ali Kharabsheh",787570000,alikharabsheh82.ak@gmail.com,"25 Jan 2026 12:55 pm","40.00 JOD","0.00 JOD","3.00 JOD","43.99 JOD",Delivery,APPLE_PAY,Delivered,42.08641,0.473915,1.90359
+186704,"THE FIT BAR™","Tareq Baddar",796620477,tareqbaddar@hotmail.com,"25 Jan 2026 12:55 pm","14.25 JOD","2.85 JOD","2.92 JOD","14.31 JOD",Delivery,MEPS,Delivered,12.9221,0.221635,1.3879
+186703,"The Cake Baker 🇯🇴","Layan Armouti",962799913333,layanarmouti@hotmail.com,"25 Jan 2026 12:55 pm","24.00 JOD","0.00 JOD","2.62 JOD","26.62 JOD",Delivery,COD,Delivered,26.62,0,0
+186702,"OPI Orders","Yahya Al Sulaihat",777079244,Yahyaalsulaihat@gmail.com,"25 Jan 2026 12:50 pm","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,Delivered,0,0,0
+186701,"Sumac Co. 🇯🇴","Ruby Ammari",797671552,ruby_ammari@hotmail.com,"25 Jan 2026 12:45 pm","13.00 JOD","2.60 JOD","0.00 JOD","10.75 JOD",Delivery,APPLE_PAY,Delivered,10.1985,0.191375,0.5515
+186700,Foodz,"Ismail Alsalem",795080705,drismailsalem@gmail.com,"25 Jan 2026 12:44 pm","68.55 JOD","0.00 JOD","0.00 JOD","68.55 JOD",Delivery,APPLE_PAY,"Out for Delivery",65.36525,0.682675,3.18475
+186699,"OPI Orders","Bashar Hamdan",790848740,basharhamdan2021@gmail.com,"25 Jan 2026 12:30 pm","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,Delivered,0,0,0
+186698,"Nidal Al Kalha 🇯🇴",Omar,776068913,Omarthaer.omar@gmail.com,"25 Jan 2026 12:28 pm","2.17 JOD","0.00 JOD","0.00 JOD","2.23 JOD","Pick Up",COD,Cancelled,2.23,0,0
+186697,"Yazan Shawerma 🇯🇴",Amira,791902564,amiraalsaade@gmail.com,"25 Jan 2026 12:27 pm","7.80 JOD","0.00 JOD","0.00 JOD","7.80 JOD","Pick Up",COD,Delivered,7.8,0,0
+186696,"OPI Orders","Ahmad Alashqar",795790015,ahmdalashqar@gmail.com,"25 Jan 2026 12:19 pm","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,Delivered,0,0,0
+186695,"Wingman 🇯🇴","Ikhlas mousa",793222346,ikhlasmousa14@gmail.com,"25 Jan 2026 12:12 pm","7.25 JOD","1.81 JOD","2.61 JOD","8.25 JOD",Delivery,COD,Delivered,8.25,0,0
+186694,"Nidal Al Kalha 🇯🇴",Mohei,799110700,Moheifathalla_86@gmail.com,"25 Jan 2026 12:10 pm","0.83 JOD","0.00 JOD","0.00 JOD","0.85 JOD","Pick Up",COD,Delivered,0.85,0,0
+186693,"Eggcited 🇯🇴",Saadeddin,796432666,nutslike111@gmail.com,"25 Jan 2026 12:07 pm","7.20 JOD","0.00 JOD","2.80 JOD","9.31 JOD",Delivery,COD,Delivered,8.4721,0,0.8379
+186692,"Nidal Al Kalha 🇯🇴",Oday,786380387,1995odayyaseen@gmail.com,"25 Jan 2026 12:01 pm","0.75 JOD","0.00 JOD","0.00 JOD","0.77 JOD","Pick Up",COD,Delivered,0.77,0,0
+186691,"Nidal Al Kalha 🇯🇴",اسلام,792021789,islamzatarr@gmail.com,"25 Jan 2026 11:58 am","2.10 JOD","0.00 JOD","0.00 JOD","2.16 JOD","Pick Up",COD,Delivered,2.16,0,0
+186690,"OPI Orders","Tasneem alhammouri",793136363,Tasneem.opi0@gmail.com,"25 Jan 2026 11:56 am","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,Delivered,0,0,0
+186689,Foodz,"Najwa Goussous",795598988,najwagoussous@gmail.com,"25 Jan 2026 11:53 am","27.00 JOD","0.00 JOD","0.00 JOD","27.00 JOD",Delivery,COD,"Order Accepted",27,0,0
+186688,"THE FIT BAR™",abed,790050005,dina.alamoudi09@gmail.com,"25 Jan 2026 11:48 am","19.20 JOD","4.00 JOD","2.64 JOD","20.36 JOD",Delivery,MEPS,Delivered,19.3438,0.27306,1.0162
+186687,"OPI Orders","Bashar Hamdan",790848740,basharhamdan2021@gmail.com,"25 Jan 2026 11:40 am","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,Delivered,0,0,0
+186686,"Nidal Al Kalha 🇯🇴","مهند نقرش",797642724,mohanadnqersh@gmail.com,"25 Jan 2026 11:27 am","0.83 JOD","0.00 JOD","0.00 JOD","0.85 JOD","Pick Up",COD,Delivered,0.85,0,0
+186685,"Foron Rex 🇯🇴","Eman raba",0795000034,Eman.w.m@gmail.com,"25 Jan 2026 11:20 am","24.25 JOD","0.00 JOD","0.00 JOD","24.25 JOD","Pick Up",MEPS,Delivered,24.25,0,0
+186684,"Foron Rex 🇯🇴","Um issa",777778386,Rula.hanania@yahoo.com,"25 Jan 2026 11:16 am","14.85 JOD","0.00 JOD","5.00 JOD","19.85 JOD",Delivery,MEPS,Delivered,19.85,0,0
+186683,"Foron Rex 🇯🇴",Haneen,791708111,Henoo89@gmil.com,"25 Jan 2026 11:15 am","6.00 JOD","0.00 JOD","0.00 JOD","6.00 JOD","Pick Up",COD,Delivered,6,0,0
+186682,"OPI Orders","Bashar Hamdan",790848740,basharhamdan2021@gmail.com,"25 Jan 2026 11:13 am","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,Delivered,0,0,0
+186681,"Foron Rex 🇯🇴","Farah Shaker",777200299,f.bintshaker@gmail.com,"25 Jan 2026 11:11 am","4.00 JOD","0.00 JOD","2.50 JOD","6.50 JOD",Delivery,MEPS,Delivered,6.5,0,0
+186679,"The Dottir 🇯🇴","Shahed Darwazeh",799951758,shahed.darwazeh@gmail.com,"25 Jan 2026 10:54 am","22.00 JOD","0.00 JOD","3.00 JOD","25.00 JOD",Delivery,COD,Delivered,25,0,0
+186678,"Nidal Al Kalha 🇯🇴","Hashim sha",775786559,Hashimkhaled137@gmail.com,"25 Jan 2026 10:48 am","1.68 JOD","0.00 JOD","0.00 JOD","1.73 JOD","Pick Up",COD,Delivered,1.73,0,0
+186677,"OPI Orders","Bashar Hamdan",790848740,basharhamdan2021@gmail.com,"25 Jan 2026 10:43 am","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,Delivered,0,0,0
+186676,"Foron Rex 🇯🇴",Lisa,792123213,anli.schmidt@gmail.com,"25 Jan 2026 10:32 am","3.00 JOD","0.00 JOD","2.50 JOD","5.50 JOD",Delivery,MEPS,Delivered,5.5,0,0
+186675,"Nidal Al Kalha 🇯🇴","Samar wazzan",796008630,s_a_wazzan@yahoo.com,"25 Jan 2026 10:27 am","12.08 JOD","0.00 JOD","0.00 JOD","12.41 JOD","Pick Up",COD,Delivered,12.41,0,0
+186674,"OPI Orders","Bashar Hamdan",790848740,basharhamdan2021@gmail.com,"25 Jan 2026 10:23 am","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,Delivered,0,0,0
+186673,"Foron Rex 🇯🇴",Lisa,792123213,anli.schmidt@gmail.com,"25 Jan 2026 10:21 am","12.00 JOD","0.00 JOD","2.50 JOD","14.50 JOD",Delivery,MEPS,Delivered,14.5,0,0
+186672,"OPI Orders","Bashar Hamdan",790848740,basharhamdan2021@gmail.com,"25 Jan 2026 10:21 am","0.00 JOD","0.00 JOD","0.00 JOD","0.00 JOD",Delivery,COD,Delivered,0,0,0
+186671,"Foron Rex 🇯🇴","Zina Jardaneh",795596124,zinajardaneh@gmail.com,"25 Jan 2026 10:14 am","6.50 JOD","0.00 JOD","2.50 JOD","9.00 JOD",Delivery,COD,Delivered,9,0,0
+186670,"Nidal Al Kalha 🇯🇴","Mutaz almoghrabi",799934490,Mutazalmoghrabi@gmail.com,"25 Jan 2026 10:11 am","2.59 JOD","0.00 JOD","0.00 JOD","2.66 JOD","Pick Up",COD,Delivered,2.66,0,0
+186669,"Foron Rex 🇯🇴","Sahel Alsalah",789199990,sahel.jsalah@gmail.con,"25 Jan 2026 9:50 am","12.70 JOD","0.00 JOD","0.00 JOD","12.70 JOD","Pick Up",COD,Delivered,12.7,0,0
+186667,"Nidal Al Kalha 🇯🇴","Hammam Al naser",780868581,Hammam.naser@hotmail.com,"25 Jan 2026 9:26 am","0.75 JOD","0.00 JOD","0.00 JOD","0.77 JOD","Pick Up",APPLE_PAY,Delivered,0.63766,0.106545,0.13234
+186666,"Eggcited 🇯🇴",Elham,797425096,elham_zahran91@hotmail.com,"25 Jan 2026 9:05 am","12.30 JOD","2.46 JOD","4.34 JOD","14.51 JOD",Delivery,COD,Delivered,14.51,0,0
+186665,"Foron Rex 🇯🇴","Omar Al Daher",788634498,Omar.daher@gmail.com,"25 Jan 2026 9:00 am","18.25 JOD","0.00 JOD","0.00 JOD","18.25 JOD","Pick Up",MEPS,Delivered,18.25,0,0
+186664,"The Dottir 🇯🇴",sara,795715994,sarabdeir@gmail.com,"25 Jan 2026 8:35 am","44.00 JOD","0.00 JOD","3.00 JOD","47.00 JOD",Delivery,COD,Delivered,47,0,0
+186663,"Foron Rex 🇯🇴","jawad hadaden",795709520,XonTW1721466293@bitesnbags.com,"25 Jan 2026 8:19 am","15.30 JOD","0.00 JOD","0.00 JOD","15.30 JOD","Pick Up",COD,Delivered,15.3,0,0
