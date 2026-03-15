@@ -23,9 +23,14 @@ if uploaded_file is not None:
     st.success(f"✅ File uploaded successfully! Total orders: {len(df)}")
     
     # Filter non-processible orders (Delivered, Cancelled, Rejected)
-    excluded_statuses = ['Delivered', 'Cancelled', 'Rejected by Place', 'rejected by place', 'Rejected', 'rejected']
-    non_delivered_df = df[~df['Status'].isin(excluded_statuses)].copy()
-    excluded_df = df[df['Status'].isin(excluded_statuses)].copy()
+    # Using string contains to catch any variations of cancelled or rejected
+    mask = (
+        (df['Status'] == 'Delivered') | 
+        df['Status'].str.contains('cancel', case=False, na=False) | 
+        df['Status'].str.contains('reject', case=False, na=False)
+    )
+    non_delivered_df = df[~mask].copy()
+    excluded_df = df[mask].copy()
     
     # Display summary metrics
     col1, col2, col3 = st.columns(3)
