@@ -1,6 +1,12 @@
-# Order Status Manager - Streamlit App
+# 📦 Order Status Manager
 
-## 🚀 Quick Start
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/naser-tnt/order-closer/main/order_status_app.py)
+
+A lightweight tool to manage and bulk-close orders that haven't been delivered yet — built with Streamlit.
+
+---
+
+## 🚀 Quick Start (Local)
 
 ### 1. Install Dependencies
 ```bash
@@ -14,41 +20,59 @@ streamlit run order_status_app.py
 
 The app will open in your browser at `http://localhost:8501`
 
+---
+
+## ☁️ Deploy to Streamlit Community Cloud
+
+1. Push this repo to GitHub (if not already done)
+2. Go to [share.streamlit.io](https://share.streamlit.io)
+3. Click **"New app"** → connect your GitHub account
+4. Select:
+   - **Repository**: `naser-tnt/order-closer`
+   - **Branch**: `main`
+   - **Main file path**: `order_status_app.py`
+5. Click **Deploy!**
+
+---
+
 ## 📋 How to Use
 
 1. **Upload CSV**: Click "Browse files" and select your orders CSV file
-
 2. **Review Summary**: See total orders, delivered vs non-delivered counts
-
 3. **View Places**: The app shows a table of all places with non-delivered orders
-
-4. **Select Places**: Use the multiselect dropdown to choose which places you want to process
-
+4. **Exclude Places**: Use the multiselect dropdown to skip places you don't want to process
 5. **Close Orders**: Choose your preferred method:
-   - **Open All at Once**: Opens all order update URLs in separate tabs (may be blocked by popup blockers)
+   - **Console Script**: Generates code to paste in browser console (bypasses popup blockers)
    - **Open One by One**: Shows clickable links for each order to open manually
-
 6. **Download**: Export the filtered orders or all non-delivered orders as CSV
+
+---
 
 ## 🎯 Features
 
-✅ Automatically filters out "Delivered" orders  
+✅ Automatically filters out "Delivered", "Cancelled", and "Rejected" orders  
 ✅ Groups non-delivered orders by Place  
 ✅ Multi-select filtering by location  
-✅ Two options for opening browser tabs  
-✅ Download filtered results  
+✅ One-click console script generation  
+✅ Download filtered results as CSV  
 ✅ Clean, responsive interface  
+
+---
 
 ## 📊 CSV Format
 
 Your CSV should include these columns:
-- Order ID
-- Place
-- Status
-- Client
-- Date
-- Total Price
-- (other columns are preserved but not required)
+
+| Column | Description |
+|--------|-------------|
+| `Order ID` | Unique order identifier |
+| `Place` | Store/location name |
+| `Status` | Order status (e.g., "Order Accepted", "Delivered") |
+| `Client` | Customer name |
+| `Date` | Order date |
+| `Total Price` | Order total |
+
+---
 
 ## 🔗 Update URL Format
 
@@ -57,12 +81,16 @@ The app opens URLs in this format:
 https://bitesnbags.com/updatestatus/delivered/{ORDER_ID}
 ```
 
+---
+
 ## ⚠️ Browser Note
 
-When using "Open All at Once", modern browsers may block multiple popups. You may need to:
-- Allow popups for localhost in your browser settings
-- Use the "Open One by One" option instead
-- Click the browser's "Allow popups" notification
+When using the console script, you have full control over opening multiple tabs without triggering popup blockers. Simply:
+- Open devtools with `F12` → go to the **Console** tab
+- Paste and run the generated script
+- Or use the **"Open One by One"** option instead for full control
+
+---
 
 ## 💡 Tips
 
